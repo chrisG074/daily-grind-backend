@@ -1,0 +1,2202 @@
+{
+  "breadcrumbs": {
+    "nl": {
+      "home": "Home",
+      "shop": "Winkel",
+      "country": "Landvlaggen",
+      "corporate": "Bedrijfsvlaggen",
+      "accessories": "Accessoires"
+    },
+    "en": {
+      "home": "Home",
+      "shop": "Shop",
+      "country": "Country Flags",
+      "corporate": "Corporate Flags",
+      "accessories": "Accessories"
+    },
+    "de": {
+      "home": "Startseite",
+      "shop": "Shop",
+      "country": "Länderflaggen",
+      "corporate": "Firmenflaggen",
+      "accessories": "Zubehör"
+    },
+    "fr": {
+      "home": "Accueil",
+      "shop": "Boutique",
+      "country": "Drapeaux Nationaux",
+      "corporate": "Drapeaux d'Entreprise",
+      "accessories": "Accessoires"
+    }
+  },
+  "cookiePolicy": {
+    "nl": {
+      "title": "Cookie Beleid",
+      "lastUpdated": "Laatst bijgewerkt: 10 maart 2026",
+      "introduction": "Introductie",
+      "introText": "Vlag en Wimpel B.V. (\"wij\", \"ons\", \"onze\") gebruikt cookies en vergelijkbare technologieën om uw bezoek aan onze website te verbeteren. Dit Cookie Beleid legt uit wat cookies zijn, hoe wij ze gebruiken en welke keuzes u heeft.",
+      "whatAreCookies": "Wat zijn Cookies?",
+      "whatAreCookiesText": "Cookies zijn kleine tekstbestanden die op uw computer of mobiele apparaat worden geplaatst wanneer u een website bezoekt. Cookies worden veel gebruikt om websites efficiënt te laten werken en om informatie te verstrekken aan de eigenaren van de website.",
+      "howWeUseCookies": "Hoe wij Cookies gebruiken",
+      "howWeUseCookiesText": "Wij gebruiken cookies voor verschillende doeleinden om uw ervaring op onze website te verbeteren en om inzicht te krijgen in hoe onze website wordt gebruikt.",
+      "essentialCookies": "Essentiële Cookies",
+      "essentialCookiesText": "Deze cookies zijn noodzakelijk voor het functioneren van de website. Ze stellen u in staat om door de website te navigeren en gebruik te maken van onze diensten en functies, zoals toegang tot beveiligde gebieden van de website. Zonder deze cookies kunnen bepaalde diensten niet worden geleverd.",
+      "functionalCookies": "Functionele Cookies",
+      "functionalCookiesText": "Deze cookies maken het mogelijk dat de website zich bepaalde keuzes herinnert die u maakt (zoals uw gebruikersnaam, taal of de regio waarin u zich bevindt) en bieden verbeterde, meer persoonlijke functies. Ze kunnen ook worden gebruikt om wijzigingen bij te houden die u heeft aangebracht aan tekstgrootte, lettertypen en andere delen van webpagina's die u kunt aanpassen.",
+      "analyticsCookies": "Analytische Cookies",
+      "analyticsCookiesText": "Deze cookies verzamelen informatie over hoe bezoekers onze website gebruiken, bijvoorbeeld welke pagina's bezoekers het vaakst bezoeken en of ze foutmeldingen van webpagina's krijgen. Deze cookies verzamelen geen informatie die een bezoeker identificeert. Alle informatie die deze cookies verzamelen is geaggregeerd en daarom anoniem.",
+      "marketingCookies": "Marketing Cookies",
+      "marketingCookiesText": "Deze cookies worden gebruikt om advertenties weer te geven die relevanter zijn voor u en uw interesses. Ze worden ook gebruikt om het aantal keren dat u een advertentie ziet te beperken en om de effectiviteit van reclamecampagnes te meten. Ze onthouden dat u een website heeft bezocht en deze informatie wordt gedeeld met andere organisaties zoals adverteerders.",
+      "thirdPartyCookies": "Cookies van Derden",
+      "thirdPartyCookiesText": "Wij maken gebruik van verschillende externe diensten zoals Google Analytics om het gebruik van onze website te analyseren. Deze diensten kunnen cookies plaatsen om hun functies uit te voeren. Deze cookies vallen onder het privacybeleid van deze externe diensten.",
+      "manageCookies": "Cookies beheren",
+      "manageCookiesText": "De meeste browsers accepteren cookies automatisch, maar u kunt doorgaans uw browserinstellingen wijzigen om cookies te weigeren als u dat wenst. Houd er rekening mee dat als u ervoor kiest om cookies te weigeren, mogelijk niet alle functies van onze website naar behoren werken.",
+      "browserSettings": "Browserinstellingen",
+      "browserSettingsText": "U kunt cookies beheren via uw browserinstellingen. Hier zijn enkele links naar de meest voorkomende browsers: Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, Opera. Raadpleeg de Help-functie van uw browser voor meer informatie.",
+      "cookieConsent": "Toestemming voor Cookies",
+      "cookieConsentText": "Bij uw eerste bezoek aan onze website vragen wij u om toestemming voor het plaatsen van bepaalde cookies. U kunt uw toestemming op elk moment intrekken door uw browserinstellingen te wijzigen of door contact met ons op te nemen.",
+      "changes": "Wijzigingen in dit Cookie Beleid",
+      "changesText": "Wij kunnen dit Cookie Beleid van tijd tot tijd bijwerken. Eventuele wijzigingen worden op deze pagina gepubliceerd met een bijgewerkte herzieningsdatum bovenaan dit beleid.",
+      "contact": "Contact",
+      "contactText": "Als u vragen heeft over dit Cookie Beleid, kunt u contact met ons opnemen: Per e-mail: privacy@vlagenwimpel.nl, Per telefoon: +31 (0)20 123 4567, Per post: Hoofdstraat 123, 1234 AB Amsterdam, Nederland"
+    },
+    "en": {
+      "title": "Cookie Policy",
+      "lastUpdated": "Last updated: March 10, 2026",
+      "introduction": "Introduction",
+      "introText": "Vlag en Wimpel B.V. (\"we\", \"us\", \"our\") uses cookies and similar technologies to improve your visit to our website. This Cookie Policy explains what cookies are, how we use them, and what choices you have.",
+      "whatAreCookies": "What are Cookies?",
+      "whatAreCookiesText": "Cookies are small text files that are placed on your computer or mobile device when you visit a website. Cookies are widely used to make websites work efficiently and to provide information to the website owners.",
+      "howWeUseCookies": "How we use Cookies",
+      "howWeUseCookiesText": "We use cookies for various purposes to improve your experience on our website and to gain insight into how our website is used.",
+      "essentialCookies": "Essential Cookies",
+      "essentialCookiesText": "These cookies are necessary for the website to function. They enable you to navigate the website and use our services and features, such as accessing secure areas of the website. Without these cookies, certain services cannot be provided.",
+      "functionalCookies": "Functional Cookies",
+      "functionalCookiesText": "These cookies enable the website to remember certain choices you make (such as your username, language or the region you are in) and provide enhanced, more personal features. They can also be used to track changes you have made to text size, fonts and other parts of web pages that you can customize.",
+      "analyticsCookies": "Analytics Cookies",
+      "analyticsCookiesText": "These cookies collect information about how visitors use our website, for example which pages visitors go to most often and if they get error messages from web pages. These cookies do not collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous.",
+      "marketingCookies": "Marketing Cookies",
+      "marketingCookiesText": "These cookies are used to display advertisements that are more relevant to you and your interests. They are also used to limit the number of times you see an advertisement and to measure the effectiveness of advertising campaigns. They remember that you have visited a website and this information is shared with other organizations such as advertisers.",
+      "thirdPartyCookies": "Third-Party Cookies",
+      "thirdPartyCookiesText": "We use various external services such as Google Analytics to analyze the use of our website. These services may place cookies to perform their functions. These cookies fall under the privacy policy of these external services.",
+      "manageCookies": "Managing Cookies",
+      "manageCookiesText": "Most browsers automatically accept cookies, but you can usually change your browser settings to refuse cookies if you wish. Please note that if you choose to refuse cookies, not all features of our website may work properly.",
+      "browserSettings": "Browser Settings",
+      "browserSettingsText": "You can manage cookies through your browser settings. Here are some links to the most common browsers: Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, Opera. Please refer to your browser's Help function for more information.",
+      "cookieConsent": "Cookie Consent",
+      "cookieConsentText": "On your first visit to our website, we ask for your consent to place certain cookies. You can withdraw your consent at any time by changing your browser settings or by contacting us.",
+      "changes": "Changes to this Cookie Policy",
+      "changesText": "We may update this Cookie Policy from time to time. Any changes will be published on this page with an updated revision date at the top of this policy.",
+      "contact": "Contact",
+      "contactText": "If you have any questions about this Cookie Policy, you can contact us: By email: privacy@flagandpennant.com, By phone: +31 (0)20 123 4567, By mail: Main Street 123, 1234 AB Amsterdam, Netherlands"
+    },
+    "de": {
+      "title": "Cookie-Richtlinie",
+      "lastUpdated": "Zuletzt aktualisiert: 10. März 2026",
+      "introduction": "Einführung",
+      "introText": "Vlag en Wimpel B.V. (\"wir\", \"uns\", \"unser\") verwendet Cookies und ähnliche Technologien, um Ihren Besuch auf unserer Website zu verbessern. Diese Cookie-Richtlinie erklärt, was Cookies sind, wie wir sie verwenden und welche Wahlmöglichkeiten Sie haben.",
+      "whatAreCookies": "Was sind Cookies?",
+      "whatAreCookiesText": "Cookies sind kleine Textdateien, die auf Ihrem Computer oder mobilen Gerät gespeichert werden, wenn Sie eine Website besuchen. Cookies werden häufig verwendet, um Websites effizient arbeiten zu lassen und um Informationen an die Website-Betreiber zu liefern.",
+      "howWeUseCookies": "Wie wir Cookies verwenden",
+      "howWeUseCookiesText": "Wir verwenden Cookies für verschiedene Zwecke, um Ihr Erlebnis auf unserer Website zu verbessern und um Einblick zu erhalten, wie unsere Website genutzt wird.",
+      "essentialCookies": "Notwendige Cookies",
+      "essentialCookiesText": "Diese Cookies sind für das Funktionieren der Website erforderlich. Sie ermöglichen es Ihnen, auf der Website zu navigieren und unsere Dienste und Funktionen zu nutzen, wie z.B. den Zugriff auf sichere Bereiche der Website. Ohne diese Cookies können bestimmte Dienste nicht bereitgestellt werden.",
+      "functionalCookies": "Funktionale Cookies",
+      "functionalCookiesText": "Diese Cookies ermöglichen es der Website, sich an bestimmte Entscheidungen zu erinnern, die Sie treffen (wie z.B. Ihr Benutzername, Sprache oder die Region, in der Sie sich befinden) und bieten verbesserte, persönlichere Funktionen. Sie können auch verwendet werden, um Änderungen zu verfolgen, die Sie an Textgröße, Schriftarten und anderen Teilen von Webseiten vorgenommen haben, die Sie anpassen können.",
+      "analyticsCookies": "Analytische Cookies",
+      "analyticsCookiesText": "Diese Cookies sammeln Informationen darüber, wie Besucher unsere Website nutzen, z.B. welche Seiten Besucher am häufigsten besuchen und ob sie Fehlermeldungen von Webseiten erhalten. Diese Cookies sammeln keine Informationen, die einen Besucher identifizieren. Alle Informationen, die diese Cookies sammeln, sind aggregiert und daher anonym.",
+      "marketingCookies": "Marketing-Cookies",
+      "marketingCookiesText": "Diese Cookies werden verwendet, um Werbung anzuzeigen, die für Sie und Ihre Interessen relevanter ist. Sie werden auch verwendet, um die Anzahl der Male zu begrenzen, die Sie eine Werbung sehen, und um die Wirksamkeit von Werbekampagnen zu messen. Sie merken sich, dass Sie eine Website besucht haben, und diese Informationen werden mit anderen Organisationen wie Werbetreibenden geteilt.",
+      "thirdPartyCookies": "Cookies von Drittanbietern",
+      "thirdPartyCookiesText": "Wir nutzen verschiedene externe Dienste wie Google Analytics, um die Nutzung unserer Website zu analysieren. Diese Dienste können Cookies platzieren, um ihre Funktionen auszuführen. Diese Cookies fallen unter die Datenschutzrichtlinie dieser externen Dienste.",
+      "manageCookies": "Cookies verwalten",
+      "manageCookiesText": "Die meisten Browser akzeptieren Cookies automatisch, aber Sie können normalerweise Ihre Browsereinstellungen ändern, um Cookies abzulehnen, wenn Sie dies wünschen. Bitte beachten Sie, dass wenn Sie sich entscheiden, Cookies abzulehnen, möglicherweise nicht alle Funktionen unserer Website ordnungsgemäß funktionieren.",
+      "browserSettings": "Browsereinstellungen",
+      "browserSettingsText": "Sie können Cookies über Ihre Browsereinstellungen verwalten. Hier sind einige Links zu den gängigsten Browsern: Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, Opera. Bitte konsultieren Sie die Hilfefunktion Ihres Browsers für weitere Informationen.",
+      "cookieConsent": "Cookie-Einwilligung",
+      "cookieConsentText": "Bei Ihrem ersten Besuch auf unserer Website bitten wir Sie um Ihre Zustimmung zum Platzieren bestimmter Cookies. Sie können Ihre Zustimmung jederzeit widerrufen, indem Sie Ihre Browsereinstellungen ändern oder uns kontaktieren.",
+      "changes": "Änderungen an dieser Cookie-Richtlinie",
+      "changesText": "Wir können diese Cookie-Richtlinie von Zeit zu Zeit aktualisieren. Alle Änderungen werden auf dieser Seite mit einem aktualisierten Überarbeitungsdatum oben in dieser Richtlinie veröffentlicht.",
+      "contact": "Kontakt",
+      "contactText": "Wenn Sie Fragen zu dieser Cookie-Richtlinie haben, können Sie uns kontaktieren: Per E-Mail: privacy@flaggeundwimpel.de, Per Telefon: +31 (0)20 123 4567, Per Post: Hauptstraße 123, 1234 AB Amsterdam, Niederlande"
+    },
+    "fr": {
+      "title": "Politique de Cookies",
+      "lastUpdated": "Dernière mise à jour : 10 mars 2026",
+      "introduction": "Introduction",
+      "introText": "Vlag en Wimpel B.V. (\"nous\", \"notre\") utilise des cookies et des technologies similaires pour améliorer votre visite sur notre site web. Cette Politique de Cookies explique ce que sont les cookies, comment nous les utilisons et quels choix vous avez.",
+      "whatAreCookies": "Que sont les Cookies ?",
+      "whatAreCookiesText": "Les cookies sont de petits fichiers texte qui sont placés sur votre ordinateur ou appareil mobile lorsque vous visitez un site web. Les cookies sont largement utilisés pour faire fonctionner les sites web efficacement et pour fournir des informations aux propriétaires de sites web.",
+      "howWeUseCookies": "Comment nous utilisons les Cookies",
+      "howWeUseCookiesText": "Nous utilisons des cookies à diverses fins pour améliorer votre expérience sur notre site web et pour obtenir un aperçu de la façon dont notre site web est utilisé.",
+      "essentialCookies": "Cookies Essentiels",
+      "essentialCookiesText": "Ces cookies sont nécessaires au fonctionnement du site web. Ils vous permettent de naviguer sur le site web et d'utiliser nos services et fonctionnalités, comme l'accès aux zones sécurisées du site web. Sans ces cookies, certains services ne peuvent pas être fournis.",
+      "functionalCookies": "Cookies Fonctionnels",
+      "functionalCookiesText": "Ces cookies permettent au site web de se souvenir de certains choix que vous faites (comme votre nom d'utilisateur, langue ou la région dans laquelle vous vous trouvez) et fournissent des fonctionnalités améliorées et plus personnelles. Ils peuvent également être utilisés pour suivre les modifications que vous avez apportées à la taille du texte, aux polices et à d'autres parties des pages web que vous pouvez personnaliser.",
+      "analyticsCookies": "Cookies Analytiques",
+      "analyticsCookiesText": "Ces cookies collectent des informations sur la façon dont les visiteurs utilisent notre site web, par exemple quelles pages les visiteurs consultent le plus souvent et s'ils reçoivent des messages d'erreur des pages web. Ces cookies ne collectent pas d'informations qui identifient un visiteur. Toutes les informations que ces cookies collectent sont agrégées et donc anonymes.",
+      "marketingCookies": "Cookies Marketing",
+      "marketingCookiesText": "Ces cookies sont utilisés pour afficher des publicités plus pertinentes pour vous et vos intérêts. Ils sont également utilisés pour limiter le nombre de fois que vous voyez une publicité et pour mesurer l'efficacité des campagnes publicitaires. Ils se souviennent que vous avez visité un site web et cette information est partagée avec d'autres organisations comme les annonceurs.",
+      "thirdPartyCookies": "Cookies Tiers",
+      "thirdPartyCookiesText": "Nous utilisons divers services externes tels que Google Analytics pour analyser l'utilisation de notre site web. Ces services peuvent placer des cookies pour exécuter leurs fonctions. Ces cookies relèvent de la politique de confidentialité de ces services externes.",
+      "manageCookies": "Gérer les Cookies",
+      "manageCookiesText": "La plupart des navigateurs acceptent automatiquement les cookies, mais vous pouvez généralement modifier les paramètres de votre navigateur pour refuser les cookies si vous le souhaitez. Veuillez noter que si vous choisissez de refuser les cookies, toutes les fonctionnalités de notre site web peuvent ne pas fonctionner correctement.",
+      "browserSettings": "Paramètres du Navigateur",
+      "browserSettingsText": "Vous pouvez gérer les cookies via les paramètres de votre navigateur. Voici quelques liens vers les navigateurs les plus courants : Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, Opera. Veuillez consulter la fonction d'aide de votre navigateur pour plus d'informations.",
+      "cookieConsent": "Consentement aux Cookies",
+      "cookieConsentText": "Lors de votre première visite sur notre site web, nous vous demandons votre consentement pour placer certains cookies. Vous pouvez retirer votre consentement à tout moment en modifiant les paramètres de votre navigateur ou en nous contactant.",
+      "changes": "Modifications de cette Politique de Cookies",
+      "changesText": "Nous pouvons mettre à jour cette Politique de Cookies de temps en temps. Toute modification sera publiée sur cette page avec une date de révision mise à jour en haut de cette politique.",
+      "contact": "Contact",
+      "contactText": "Si vous avez des questions concernant cette Politique de Cookies, vous pouvez nous contacter : Par e-mail : privacy@drapeauxetfanions.fr, Par téléphone : +31 (0)20 123 4567, Par courrier : Rue Principale 123, 1234 AB Amsterdam, Pays-Bas"
+    }
+  },
+  "fAQ": {
+    "nl": {
+      "title": "Veelgestelde Vragen",
+      "subtitle": "Vind snel antwoorden op de meest gestelde vragen",
+      "categories": {
+        "ordering": "Bestellen",
+        "shipping": "Verzending",
+        "products": "Producten",
+        "returns": "Retourneren"
+      },
+      "faqs": {
+        "ordering": [
+          {
+            "question": "Hoe kan ik een vlag bestellen?",
+            "answer": "U kunt eenvoudig een vlag bestellen door het gewenste product te selecteren, uw voorkeuren aan te geven (zoals afmetingen en materiaal), en het product toe te voegen aan uw winkelwagen. Vervolgens gaat u naar de kassa om uw bestelling af te ronden."
+          },
+          {
+            "question": "Kan ik mijn eigen logo uploaden?",
+            "answer": "Ja, bij bedrijfsvlaggen kunt u uw eigen logo uploaden via onze vlag-configurator. Upload een bestand in hoge resolutie (minimaal 300 DPI) in PNG, JPG of PDF formaat voor het beste resultaat."
+          },
+          {
+            "question": "Welke betaalmethoden accepteren jullie?",
+            "answer": "Wij accepteren iDEAL, creditcards (Visa, Mastercard, American Express), PayPal, bankoverschrijving en voor zakelijke klanten ook betaling op factuur (na goedkeuring)."
+          }
+        ],
+        "shipping": [
+          {
+            "question": "Wat zijn de verzendkosten?",
+            "answer": "Verzendkosten bedragen €8,95 voor bestellingen onder €75. Bij bestellingen boven €75 verzenden wij gratis binnen Nederland. Voor internationale verzending gelden andere tarieven."
+          },
+          {
+            "question": "Hoe lang duurt de levertijd?",
+            "answer": "Standaard vlaggen worden binnen 2-3 werkdagen geleverd. Custom vlaggen met logo hebben een levertijd van 5-7 werkdagen. Express levering is mogelijk tegen meerprijs."
+          },
+          {
+            "question": "Leveren jullie internationaal?",
+            "answer": "Ja, wij verzenden naar alle landen binnen de EU en daarbuiten. De verzendkosten en levertijd zijn afhankelijk van de bestemming. Dit wordt berekend tijdens het afrekenen."
+          }
+        ],
+        "products": [
+          {
+            "question": "Welke materialen zijn beschikbaar?",
+            "answer": "Wij bieden verschillende materialen aan: 110g/m² Gloss Poly (glanzend, geschikt voor binnen en buiten), 115g/m² Nautical Poly (extra sterk, weerbestendig), en 160g/m² Knitted Polyester (luxe, premium kwaliteit)."
+          },
+          {
+            "question": "Wat is het verschil tussen de bevestigingsmethoden?",
+            "answer": "Haken: Metalen haken voor snelle bevestiging aan een vlaggenmast. Koord: Traditioneel touw voor bevestiging, zeer sterk. Tunnel: Een tunnel aan de zijkant waar een mast doorheen kan worden geschoven."
+          },
+          {
+            "question": "Kunnen vlaggen gewassen worden?",
+            "answer": "Ja, onze vlaggen kunnen op 30 graden worden gewassen. Wij raden aan om de vlag te laten drogen zonder centrifuge en niet te strijken om de kleuren optimaal te behouden."
+          }
+        ],
+        "returns": [
+          {
+            "question": "Wat is het retourbeleid?",
+            "answer": "U heeft 30 dagen bedenktijd op standaard vlaggen. Custom vlaggen met logo kunnen niet worden geretourneerd tenzij er sprake is van een productie- of leveringsfout."
+          },
+          {
+            "question": "Hoe kan ik een product retourneren?",
+            "answer": "Neem contact op met onze klantenservice via info@vlagenwimpel.nl. U ontvangt een retourlabel en instructies. Het product moet ongebruikt zijn en in de originele verpakking worden geretourneerd."
+          },
+          {
+            "question": "Wanneer krijg ik mijn geld terug?",
+            "answer": "Na ontvangst en controle van het geretourneerde product wordt het bedrag binnen 5-7 werkdagen teruggestort op de rekening waarmee u heeft betaald."
+          }
+        ]
+      }
+    },
+    "en": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Find quick answers to the most common questions",
+      "categories": {
+        "ordering": "Ordering",
+        "shipping": "Shipping",
+        "products": "Products",
+        "returns": "Returns"
+      },
+      "faqs": {
+        "ordering": [
+          {
+            "question": "How can I order a flag?",
+            "answer": "You can easily order a flag by selecting the desired product, indicating your preferences (such as dimensions and material), and adding the product to your shopping cart. Then proceed to checkout to complete your order."
+          },
+          {
+            "question": "Can I upload my own logo?",
+            "answer": "Yes, for corporate flags you can upload your own logo via our flag configurator. Upload a high-resolution file (minimum 300 DPI) in PNG, JPG or PDF format for the best result."
+          },
+          {
+            "question": "Which payment methods do you accept?",
+            "answer": "We accept credit cards (Visa, Mastercard, American Express), PayPal, bank transfer and for business customers also payment by invoice (after approval)."
+          }
+        ],
+        "shipping": [
+          {
+            "question": "What are the shipping costs?",
+            "answer": "Shipping costs are €8.95 for orders under €75. For orders over €75 we ship free within the Netherlands. Different rates apply for international shipping."
+          },
+          {
+            "question": "What is the delivery time?",
+            "answer": "Standard flags are delivered within 2-3 working days. Custom flags with logo have a delivery time of 5-7 working days. Express delivery is possible at an additional cost."
+          },
+          {
+            "question": "Do you deliver internationally?",
+            "answer": "Yes, we ship to all countries within the EU and beyond. Shipping costs and delivery time depend on the destination. This is calculated during checkout."
+          }
+        ],
+        "products": [
+          {
+            "question": "Which materials are available?",
+            "answer": "We offer various materials: 110g/m² Gloss Poly (glossy, suitable for indoor and outdoor), 115g/m² Nautical Poly (extra strong, weather resistant), and 160g/m² Knitted Polyester (luxury, premium quality)."
+          },
+          {
+            "question": "What is the difference between attachment methods?",
+            "answer": "Hooks: Metal hooks for quick attachment to a flagpole. Cord: Traditional rope for attachment, very strong. Tunnel: A tunnel on the side through which a pole can be inserted."
+          },
+          {
+            "question": "Can flags be washed?",
+            "answer": "Yes, our flags can be washed at 30 degrees. We recommend letting the flag dry without spin cycle and not ironing to maintain optimal colors."
+          }
+        ],
+        "returns": [
+          {
+            "question": "What is the return policy?",
+            "answer": "You have 30 days cooling-off period on standard flags. Custom flags with logo cannot be returned unless there is a production or delivery error."
+          },
+          {
+            "question": "How can I return a product?",
+            "answer": "Contact our customer service at info@flagandpennant.com. You will receive a return label and instructions. The product must be unused and returned in its original packaging."
+          },
+          {
+            "question": "When will I get my money back?",
+            "answer": "After receipt and inspection of the returned product, the amount will be refunded within 5-7 working days to the account with which you paid."
+          }
+        ]
+      }
+    },
+    "de": {
+      "title": "Häufig Gestellte Fragen",
+      "subtitle": "Finden Sie schnell Antworten auf die häufigsten Fragen",
+      "categories": {
+        "ordering": "Bestellung",
+        "shipping": "Versand",
+        "products": "Produkte",
+        "returns": "Rücksendungen"
+      },
+      "faqs": {
+        "ordering": [
+          {
+            "question": "Wie kann ich eine Flagge bestellen?",
+            "answer": "Sie können einfach eine Flagge bestellen, indem Sie das gewünschte Produkt auswählen, Ihre Präferenzen angeben (wie Abmessungen und Material) und das Produkt in Ihren Warenkorb legen. Anschließend gehen Sie zur Kasse, um Ihre Bestellung abzuschließen."
+          },
+          {
+            "question": "Kann ich mein eigenes Logo hochladen?",
+            "answer": "Ja, bei Firmenflaggen können Sie Ihr eigenes Logo über unseren Flaggen-Konfigurator hochladen. Laden Sie eine hochauflösende Datei (mindestens 300 DPI) im PNG-, JPG- oder PDF-Format für das beste Ergebnis hoch."
+          },
+          {
+            "question": "Welche Zahlungsmethoden akzeptieren Sie?",
+            "answer": "Wir akzeptieren Kreditkarten (Visa, Mastercard, American Express), PayPal, Banküberweisung und für Geschäftskunden auch Zahlung auf Rechnung (nach Genehmigung)."
+          }
+        ],
+        "shipping": [
+          {
+            "question": "Was sind die Versandkosten?",
+            "answer": "Die Versandkosten betragen €8,95 für Bestellungen unter €75. Bei Bestellungen über €75 versenden wir kostenlos innerhalb der Niederlande. Für internationalen Versand gelten andere Tarife."
+          },
+          {
+            "question": "Wie lange dauert die Lieferzeit?",
+            "answer": "Standardflaggen werden innerhalb von 2-3 Werktagen geliefert. Custom-Flaggen mit Logo haben eine Lieferzeit von 5-7 Werktagen. Express-Lieferung ist gegen Aufpreis möglich."
+          },
+          {
+            "question": "Liefern Sie international?",
+            "answer": "Ja, wir versenden in alle Länder innerhalb der EU und darüber hinaus. Die Versandkosten und Lieferzeit hängen vom Zielort ab. Dies wird während des Bestellvorgangs berechnet."
+          }
+        ],
+        "products": [
+          {
+            "question": "Welche Materialien sind verfügbar?",
+            "answer": "Wir bieten verschiedene Materialien an: 110g/m² Gloss Poly (glänzend, für innen und außen geeignet), 115g/m² Nautical Poly (extra stark, wetterbeständig) und 160g/m² Knitted Polyester (Luxus, Premium-Qualität)."
+          },
+          {
+            "question": "Was ist der Unterschied zwischen den Befestigungsmethoden?",
+            "answer": "Haken: Metallhaken für schnelle Befestigung an einem Fahnenmast. Kordel: Traditionelles Seil zur Befestigung, sehr stark. Tunnel: Ein Tunnel an der Seite, durch den ein Mast geschoben werden kann."
+          },
+          {
+            "question": "Können Flaggen gewaschen werden?",
+            "answer": "Ja, unsere Flaggen können bei 30 Grad gewaschen werden. Wir empfehlen, die Flagge ohne Schleudergang trocknen zu lassen und nicht zu bügeln, um optimale Farben zu erhalten."
+          }
+        ],
+        "returns": [
+          {
+            "question": "Was ist die Rückgaberichtlinie?",
+            "answer": "Sie haben 30 Tage Bedenkzeit bei Standardflaggen. Custom-Flaggen mit Logo können nicht zurückgegeben werden, es sei denn, es liegt ein Produktions- oder Lieferfehler vor."
+          },
+          {
+            "question": "Wie kann ich ein Produkt zurücksenden?",
+            "answer": "Kontaktieren Sie unseren Kundenservice unter info@flaggeundwimpel.de. Sie erhalten ein Rücksendeetikett und Anweisungen. Das Produkt muss unbenutzt sein und in der Originalverpackung zurückgesendet werden."
+          },
+          {
+            "question": "Wann bekomme ich mein Geld zurück?",
+            "answer": "Nach Erhalt und Prüfung des zurückgesendeten Produkts wird der Betrag innerhalb von 5-7 Werktagen auf das Konto erstattet, mit dem Sie bezahlt haben."
+          }
+        ]
+      }
+    },
+    "fr": {
+      "title": "Questions Fréquemment Posées",
+      "subtitle": "Trouvez rapidement des réponses aux questions les plus courantes",
+      "categories": {
+        "ordering": "Commande",
+        "shipping": "Livraison",
+        "products": "Produits",
+        "returns": "Retours"
+      },
+      "faqs": {
+        "ordering": [
+          {
+            "question": "Comment puis-je commander un drapeau?",
+            "answer": "Vous pouvez facilement commander un drapeau en sélectionnant le produit souhaité, en indiquant vos préférences (telles que les dimensions et le matériau) et en ajoutant le produit à votre panier. Ensuite, procédez au paiement pour finaliser votre commande."
+          },
+          {
+            "question": "Puis-je télécharger mon propre logo?",
+            "answer": "Oui, pour les drapeaux d'entreprise, vous pouvez télécharger votre propre logo via notre configurateur de drapeaux. Téléchargez un fichier haute résolution (minimum 300 DPI) au format PNG, JPG ou PDF pour obtenir le meilleur résultat."
+          },
+          {
+            "question": "Quels modes de paiement acceptez-vous?",
+            "answer": "Nous acceptons les cartes de crédit (Visa, Mastercard, American Express), PayPal, virement bancaire et pour les clients professionnels également le paiement sur facture (après approbation)."
+          }
+        ],
+        "shipping": [
+          {
+            "question": "Quels sont les frais de livraison?",
+            "answer": "Les frais de livraison sont de €8,95 pour les commandes de moins de €75. Pour les commandes de plus de €75, nous livrons gratuitement aux Pays-Bas. Des tarifs différents s'appliquent pour la livraison internationale."
+          },
+          {
+            "question": "Quel est le délai de livraison?",
+            "answer": "Les drapeaux standard sont livrés sous 2-3 jours ouvrables. Les drapeaux personnalisés avec logo ont un délai de livraison de 5-7 jours ouvrables. La livraison express est possible moyennant un supplément."
+          },
+          {
+            "question": "Livrez-vous à l'international?",
+            "answer": "Oui, nous expédions dans tous les pays de l'UE et au-delà. Les frais de livraison et le délai de livraison dépendent de la destination. Ceci est calculé lors du paiement."
+          }
+        ],
+        "products": [
+          {
+            "question": "Quels matériaux sont disponibles?",
+            "answer": "Nous proposons différents matériaux: 110g/m² Gloss Poly (brillant, adapté pour l'intérieur et l'extérieur), 115g/m² Nautical Poly (extra résistant, résistant aux intempéries) et 160g/m² Knitted Polyester (luxe, qualité premium)."
+          },
+          {
+            "question": "Quelle est la différence entre les méthodes de fixation?",
+            "answer": "Crochets: Crochets métalliques pour une fixation rapide à un mât. Corde: Corde traditionnelle pour la fixation, très solide. Tunnel: Un tunnel sur le côté à travers lequel un mât peut être inséré."
+          },
+          {
+            "question": "Les drapeaux peuvent-ils être lavés?",
+            "answer": "Oui, nos drapeaux peuvent être lavés à 30 degrés. Nous recommandons de laisser sécher le drapeau sans essorage et de ne pas repasser pour conserver des couleurs optimales."
+          }
+        ],
+        "returns": [
+          {
+            "question": "Quelle est la politique de retour?",
+            "answer": "Vous disposez d'un délai de réflexion de 30 jours sur les drapeaux standard. Les drapeaux personnalisés avec logo ne peuvent pas être retournés sauf en cas d'erreur de production ou de livraison."
+          },
+          {
+            "question": "Comment puis-je retourner un produit?",
+            "answer": "Contactez notre service client à info@drapeauxetfanions.fr. Vous recevrez une étiquette de retour et des instructions. Le produit doit être inutilisé et retourné dans son emballage d'origine."
+          },
+          {
+            "question": "Quand serai-je remboursé?",
+            "answer": "Après réception et inspection du produit retourné, le montant sera remboursé sous 5-7 jours ouvrables sur le compte avec lequel vous avez payé."
+          }
+        ]
+      }
+    }
+  },
+  "filterSidebar": {
+    "nl": {
+      "filters": "Filters",
+      "attachmentMethod": "Bevestigingsmethode",
+      "country": "Land",
+      "material": "Materiaal",
+      "hooks": "Haken",
+      "cord": "Koord",
+      "tunnel": "Tunnel",
+      "eyelet": "Oogjes",
+      "glossPoly": "110g/m² Gloss Poly",
+      "nauticalPoly": "115g/m² Nautical Poly",
+      "premiumPoly": "150g/m² Premium Poly",
+      "clearFilters": "Wis filters",
+      "notApplicable": "Niet van toepassing voor deze categorie"
+    },
+    "en": {
+      "filters": "Filters",
+      "attachmentMethod": "Attachment Method",
+      "country": "Country",
+      "material": "Material",
+      "hooks": "Hooks",
+      "cord": "Cord",
+      "tunnel": "Tunnel",
+      "eyelet": "Eyelets",
+      "glossPoly": "110g/m² Gloss Poly",
+      "nauticalPoly": "115g/m² Nautical Poly",
+      "premiumPoly": "150g/m² Premium Poly",
+      "clearFilters": "Clear filters",
+      "notApplicable": "Not applicable for this category"
+    },
+    "de": {
+      "filters": "Filter",
+      "attachmentMethod": "Befestigungsmethode",
+      "country": "Land",
+      "material": "Material",
+      "hooks": "Haken",
+      "cord": "Schnur",
+      "tunnel": "Tunnel",
+      "eyelet": "Ösen",
+      "glossPoly": "110g/m² Gloss Poly",
+      "nauticalPoly": "115g/m² Nautical Poly",
+      "premiumPoly": "150g/m² Premium Poly",
+      "clearFilters": "Filter löschen",
+      "notApplicable": "Nicht anwendbar für diese Kategorie"
+    },
+    "fr": {
+      "filters": "Filtres",
+      "attachmentMethod": "Méthode de Fixation",
+      "country": "Pays",
+      "material": "Matériau",
+      "hooks": "Crochets",
+      "cord": "Corde",
+      "tunnel": "Tunnel",
+      "eyelet": "Œillets",
+      "glossPoly": "110g/m² Gloss Poly",
+      "nauticalPoly": "115g/m² Nautical Poly",
+      "premiumPoly": "150g/m² Premium Poly",
+      "clearFilters": "Effacer les filtres",
+      "notApplicable": "Non applicable pour cette catégorie"
+    }
+  },
+  "flagConfigurator": {
+    "nl": {
+      "backToProducts": "Terug naar producten",
+      "configure": "Configureer uw vlag",
+      "size": "Afmeting",
+      "material": "Materiaal",
+      "attachment": "Bevestiging",
+      "customLogo": "Eigen logo uploaden",
+      "uploadLogo": "Logo uploaden (optioneel)",
+      "quantity": "Aantal",
+      "addToCart": "Toevoegen aan winkelwagen",
+      "totalPrice": "Totaalprijs",
+      "flagInstructions": "Vlaginstructies",
+      "instructionsText": "Deze vlag dient horizontaal te worden opgehangen met de strepen horizontaal lopend.",
+      "materialInfo": "110g/m² Gloss Poly: Standaard kwaliteit, geschikt voor binnen- en buitengebruik"
+    },
+    "en": {
+      "backToProducts": "Back to products",
+      "configure": "Configure your flag",
+      "size": "Size",
+      "material": "Material",
+      "attachment": "Attachment",
+      "customLogo": "Upload custom logo",
+      "uploadLogo": "Upload logo (optional)",
+      "quantity": "Quantity",
+      "addToCart": "Add to cart",
+      "totalPrice": "Total price",
+      "flagInstructions": "Flag Instructions",
+      "instructionsText": "This flag should be hung horizontally with the stripes running horizontally.",
+      "materialInfo": "110g/m² Gloss Poly: Standard quality, suitable for indoor and outdoor use"
+    },
+    "de": {
+      "backToProducts": "Zurück zu Produkten",
+      "configure": "Konfigurieren Sie Ihre Flagge",
+      "size": "Größe",
+      "material": "Material",
+      "attachment": "Befestigung",
+      "customLogo": "Eigenes Logo hochladen",
+      "uploadLogo": "Logo hochladen (optional)",
+      "quantity": "Anzahl",
+      "addToCart": "In den Warenkorb",
+      "totalPrice": "Gesamtpreis",
+      "flagInstructions": "Flaggenanweisungen",
+      "instructionsText": "Diese Flagge sollte horizontal mit horizontal verlaufenden Streifen aufgehängt werden.",
+      "materialInfo": "110g/m² Gloss Poly: Standardqualität, geeignet für Innen- und Außenbereich"
+    },
+    "fr": {
+      "backToProducts": "Retour aux produits",
+      "configure": "Configurez votre drapeau",
+      "size": "Taille",
+      "material": "Matériau",
+      "attachment": "Fixation",
+      "customLogo": "Télécharger un logo personnalisé",
+      "uploadLogo": "Télécharger le logo (optionnel)",
+      "quantity": "Quantité",
+      "addToCart": "Ajouter au panier",
+      "totalPrice": "Prix total",
+      "flagInstructions": "Instructions du drapeau",
+      "instructionsText": "Ce drapeau doit être suspendu horizontalement avec les rayures horizontales.",
+      "materialInfo": "110g/m² Gloss Poly: Qualité standard, adapté à un usage intérieur et extérieur"
+    }
+  },
+  "footer": {
+    "nl": {
+      "about": "Over Ons",
+      "aboutText": "Vlag en Wimpel B.V. is uw internationale specialist in hoogwaardige vlaggen en wimpels voor bedrijven en particulieren.",
+      "contact": "Contact",
+      "address": "Hoofdstraat 123, 1234 AB Amsterdam",
+      "phone": "+31 (0)20 123 4567",
+      "email": "info@vlagenwimpel.nl",
+      "customerService": "Klantenservice",
+      "faq": "Veelgestelde Vragen",
+      "shipping": "Verzending & Levering",
+      "returns": "Retourneren",
+      "payment": "Betaalmethoden",
+      "legal": "Juridisch",
+      "privacy": "Privacy Beleid",
+      "terms": "Algemene Voorwaarden",
+      "cookies": "Cookie Beleid",
+      "followUs": "Volg Ons",
+      "newsletter": "Nieuwsbrief",
+      "newsletterText": "Blijf op de hoogte van onze nieuwste producten en aanbiedingen",
+      "subscribe": "Inschrijven",
+      "emailPlaceholder": "Uw e-mailadres",
+      "copyright": "© 2026 Vlag en Wimpel B.V. Alle rechten voorbehouden."
+    },
+    "en": {
+      "about": "About Us",
+      "aboutText": "Vlag en Wimpel B.V. is your international specialist in high-quality flags and pennants for businesses and individuals.",
+      "contact": "Contact",
+      "address": "Main Street 123, 1234 AB Amsterdam",
+      "phone": "+31 (0)20 123 4567",
+      "email": "info@flagandpennant.com",
+      "customerService": "Customer Service",
+      "faq": "FAQ",
+      "shipping": "Shipping & Delivery",
+      "returns": "Returns",
+      "payment": "Payment Methods",
+      "legal": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "cookies": "Cookie Policy",
+      "followUs": "Follow Us",
+      "newsletter": "Newsletter",
+      "newsletterText": "Stay updated with our latest products and offers",
+      "subscribe": "Subscribe",
+      "emailPlaceholder": "Your email address",
+      "copyright": "© 2026 Vlag en Wimpel B.V. All rights reserved."
+    },
+    "de": {
+      "about": "Über Uns",
+      "aboutText": "Vlag en Wimpel B.V. ist Ihr internationaler Spezialist für hochwertige Flaggen und Wimpel für Unternehmen und Privatpersonen.",
+      "contact": "Kontakt",
+      "address": "Hauptstraße 123, 1234 AB Amsterdam",
+      "phone": "+31 (0)20 123 4567",
+      "email": "info@flaggeundwimpel.de",
+      "customerService": "Kundenservice",
+      "faq": "Häufig Gestellte Fragen",
+      "shipping": "Versand & Lieferung",
+      "returns": "Rücksendungen",
+      "payment": "Zahlungsmethoden",
+      "legal": "Rechtliches",
+      "privacy": "Datenschutz",
+      "terms": "AGB",
+      "cookies": "Cookie-Richtlinie",
+      "followUs": "Folgen Sie Uns",
+      "newsletter": "Newsletter",
+      "newsletterText": "Bleiben Sie über unsere neuesten Produkte und Angebote informiert",
+      "subscribe": "Abonnieren",
+      "emailPlaceholder": "Ihre E-Mail-Adresse",
+      "copyright": "© 2026 Vlag en Wimpel B.V. Alle Rechte vorbehalten."
+    },
+    "fr": {
+      "about": "À Propos",
+      "aboutText": "Vlag en Wimpel B.V. est votre spécialiste international de drapeaux et fanions de haute qualité pour les entreprises et les particuliers.",
+      "contact": "Contact",
+      "address": "Rue Principale 123, 1234 AB Amsterdam",
+      "phone": "+31 (0)20 123 4567",
+      "email": "info@drapeauxetfanions.fr",
+      "customerService": "Service Client",
+      "faq": "FAQ",
+      "shipping": "Livraison",
+      "returns": "Retours",
+      "payment": "Méthodes de Paiement",
+      "legal": "Légal",
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions Générales",
+      "cookies": "Politique de Cookies",
+      "followUs": "Suivez-Nous",
+      "newsletter": "Newsletter",
+      "newsletterText": "Restez informé de nos derniers produits et offres",
+      "subscribe": "S'abonner",
+      "emailPlaceholder": "Votre adresse e-mail",
+      "copyright": "© 2026 Vlag en Wimpel B.V. Tous droits réservés."
+    }
+  },
+  "header": {
+    "nl": {
+      "search": "Zoek vlaggen...",
+      "countryFlags": "Landvlaggen",
+      "corporateFlags": "Bedrijfsvlaggen",
+      "accessories": "Accessoires"
+    },
+    "en": {
+      "search": "Search flags...",
+      "countryFlags": "Country Flags",
+      "corporateFlags": "Corporate Flags",
+      "accessories": "Accessories"
+    },
+    "de": {
+      "search": "Flaggen suchen...",
+      "countryFlags": "Länderflaggen",
+      "corporateFlags": "Firmenflaggen",
+      "accessories": "Zubehör"
+    },
+    "fr": {
+      "search": "Rechercher des drapeaux...",
+      "countryFlags": "Drapeaux Nationaux",
+      "corporateFlags": "Drapeaux d'Entreprise",
+      "accessories": "Accessoires"
+    }
+  },
+  "homePage": {
+    "nl": {
+      "hero": {
+        "title": "Uw specialist in vlaggen & wimpels",
+        "subtitle": "Hoogwaardige landvlaggen, bedrijfsvlaggen en accessoires voor elk doel",
+        "cta": "Bekijk ons assortiment",
+        "ctaSecondary": "Configureer uw vlag"
+      },
+      "categories": {
+        "title": "Onze producten",
+        "subtitle": "Kies uit ons uitgebreide aanbod",
+        "country": {
+          "title": "Landvlaggen",
+          "desc": "Vlaggen van alle landen ter wereld"
+        },
+        "corporate": {
+          "title": "Bedrijfsvlaggen",
+          "desc": "Op maat gemaakte vlaggen met uw logo"
+        },
+        "accessories": {
+          "title": "Accessoires",
+          "desc": "Vlaggenstokken, haken en bevestigingsmateriaal"
+        }
+      },
+      "usps": {
+        "quality": {
+          "title": "Premium Kwaliteit",
+          "desc": "Hoogwaardige materialen zoals 110g/m² Gloss Poly"
+        },
+        "shipping": {
+          "title": "Snelle Levering",
+          "desc": "Levering binnen 2-3 werkdagen in heel Europa"
+        },
+        "security": {
+          "title": "Veilig Betalen",
+          "desc": "Alle gangbare betaalmethoden geaccepteerd"
+        },
+        "experience": {
+          "title": "40+ Jaar Ervaring",
+          "desc": "Vertrouwd door duizenden bedrijven wereldwijd"
+        }
+      },
+      "featured": {
+        "title": "Populaire producten",
+        "subtitle": "Onze meest verkochte vlaggen",
+        "from": "Vanaf",
+        "customize": "Aanpassen"
+      },
+      "about": {
+        "title": "Over Vlag & Wimpel B.V.",
+        "text": "Met meer dan 40 jaar ervaring zijn wij uw betrouwbare partner voor hoogwaardige vlaggen en wimpels. We leveren aan bedrijven, overheidsinstanties en particulieren in heel Europa. Onze vlaggen worden geproduceerd volgens de hoogste kwaliteitsnormen en zijn beschikbaar in diverse materialen en afmetingen.",
+        "cta": "Meer informatie"
+      },
+      "stats": {
+        "countries": "195+ Landen",
+        "customers": "10.000+ Klanten",
+        "orders": "50.000+ Orders",
+        "rating": "4.8/5 Beoordeling"
+      }
+    },
+    "en": {
+      "hero": {
+        "title": "Your specialist in flags & pennants",
+        "subtitle": "High-quality country flags, corporate flags and accessories for every purpose",
+        "cta": "View our range",
+        "ctaSecondary": "Configure your flag"
+      },
+      "categories": {
+        "title": "Our products",
+        "subtitle": "Choose from our extensive range",
+        "country": {
+          "title": "Country Flags",
+          "desc": "Flags of all countries worldwide"
+        },
+        "corporate": {
+          "title": "Corporate Flags",
+          "desc": "Custom made flags with your logo"
+        },
+        "accessories": {
+          "title": "Accessories",
+          "desc": "Flagpoles, hooks and mounting materials"
+        }
+      },
+      "usps": {
+        "quality": {
+          "title": "Premium Quality",
+          "desc": "High-quality materials like 110g/m² Gloss Poly"
+        },
+        "shipping": {
+          "title": "Fast Delivery",
+          "desc": "Delivery within 2-3 working days throughout Europe"
+        },
+        "security": {
+          "title": "Secure Payment",
+          "desc": "All common payment methods accepted"
+        },
+        "experience": {
+          "title": "40+ Years Experience",
+          "desc": "Trusted by thousands of companies worldwide"
+        }
+      },
+      "featured": {
+        "title": "Popular products",
+        "subtitle": "Our best-selling flags",
+        "from": "From",
+        "customize": "Customize"
+      },
+      "about": {
+        "title": "About Vlag & Wimpel B.V.",
+        "text": "With more than 40 years of experience, we are your reliable partner for high-quality flags and pennants. We deliver to businesses, government agencies and individuals throughout Europe. Our flags are produced to the highest quality standards and are available in various materials and sizes.",
+        "cta": "More information"
+      },
+      "stats": {
+        "countries": "195+ Countries",
+        "customers": "10,000+ Customers",
+        "orders": "50,000+ Orders",
+        "rating": "4.8/5 Rating"
+      }
+    },
+    "de": {
+      "hero": {
+        "title": "Ihr Spezialist für Flaggen & Wimpel",
+        "subtitle": "Hochwertige Länderflaggen, Firmenflaggen und Zubehör für jeden Zweck",
+        "cta": "Unser Sortiment ansehen",
+        "ctaSecondary": "Flagge konfigurieren"
+      },
+      "categories": {
+        "title": "Unsere Produkte",
+        "subtitle": "Wählen Sie aus unserem umfangreichen Sortiment",
+        "country": {
+          "title": "Länderflaggen",
+          "desc": "Flaggen aller Länder weltweit"
+        },
+        "corporate": {
+          "title": "Firmenflaggen",
+          "desc": "Maßgeschneiderte Flaggen mit Ihrem Logo"
+        },
+        "accessories": {
+          "title": "Zubehör",
+          "desc": "Fahnenmasten, Haken und Befestigungsmaterial"
+        }
+      },
+      "usps": {
+        "quality": {
+          "title": "Premium Qualität",
+          "desc": "Hochwertige Materialien wie 110g/m² Gloss Poly"
+        },
+        "shipping": {
+          "title": "Schnelle Lieferung",
+          "desc": "Lieferung innerhalb von 2-3 Werktagen in ganz Europa"
+        },
+        "security": {
+          "title": "Sichere Zahlung",
+          "desc": "Alle gängigen Zahlungsmethoden akzeptiert"
+        },
+        "experience": {
+          "title": "40+ Jahre Erfahrung",
+          "desc": "Vertraut von Tausenden von Unternehmen weltweit"
+        }
+      },
+      "featured": {
+        "title": "Beliebte Produkte",
+        "subtitle": "Unsere meistverkauften Flaggen",
+        "from": "Ab",
+        "customize": "Anpassen"
+      },
+      "about": {
+        "title": "Über Vlag & Wimpel B.V.",
+        "text": "Mit mehr als 40 Jahren Erfahrung sind wir Ihr zuverlässiger Partner für hochwertige Flaggen und Wimpel. Wir liefern an Unternehmen, Behörden und Privatpersonen in ganz Europa. Unsere Flaggen werden nach höchsten Qualitätsstandards produziert und sind in verschiedenen Materialien und Größen erhältlich.",
+        "cta": "Mehr Informationen"
+      },
+      "stats": {
+        "countries": "195+ Länder",
+        "customers": "10.000+ Kunden",
+        "orders": "50.000+ Bestellungen",
+        "rating": "4,8/5 Bewertung"
+      }
+    },
+    "fr": {
+      "hero": {
+        "title": "Votre spécialiste des drapeaux & fanions",
+        "subtitle": "Drapeaux nationaux, drapeaux d'entreprise et accessoires de haute qualité pour tous les besoins",
+        "cta": "Voir notre gamme",
+        "ctaSecondary": "Configurez votre drapeau"
+      },
+      "categories": {
+        "title": "Nos produits",
+        "subtitle": "Choisissez dans notre vaste gamme",
+        "country": {
+          "title": "Drapeaux Nationaux",
+          "desc": "Drapeaux de tous les pays du monde"
+        },
+        "corporate": {
+          "title": "Drapeaux d'Entreprise",
+          "desc": "Drapeaux personnalisés avec votre logo"
+        },
+        "accessories": {
+          "title": "Accessoires",
+          "desc": "Mâts, crochets et matériel de fixation"
+        }
+      },
+      "usps": {
+        "quality": {
+          "title": "Qualité Premium",
+          "desc": "Matériaux de haute qualité comme 110g/m² Gloss Poly"
+        },
+        "shipping": {
+          "title": "Livraison Rapide",
+          "desc": "Livraison sous 2-3 jours ouvrables dans toute l'Europe"
+        },
+        "security": {
+          "title": "Paiement Sécurisé",
+          "desc": "Tous les modes de paiement courants acceptés"
+        },
+        "experience": {
+          "title": "40+ Ans d'Expérience",
+          "desc": "Approuvé par des milliers d'entreprises dans le monde"
+        }
+      },
+      "featured": {
+        "title": "Produits populaires",
+        "subtitle": "Nos drapeaux les plus vendus",
+        "from": "À partir de",
+        "customize": "Personnaliser"
+      },
+      "about": {
+        "title": "À propos de Vlag & Wimpel B.V.",
+        "text": "Avec plus de 40 ans d'expérience, nous sommes votre partenaire fiable pour des drapeaux et fanions de haute qualité. Nous livrons aux entreprises, aux organismes gouvernementaux et aux particuliers dans toute l'Europe. Nos drapeaux sont produits selon les normes de qualité les plus élevées et sont disponibles dans différents matériaux et tailles.",
+        "cta": "Plus d'informations"
+      },
+      "stats": {
+        "countries": "195+ Pays",
+        "customers": "10 000+ Clients",
+        "orders": "50 000+ Commandes",
+        "rating": "4,8/5 Évaluation"
+      }
+    }
+  },
+  "newsletter": {
+    "nl": {
+      "title": "Blijf op de hoogte",
+      "subtitle": "Ontvang onze nieuwsbrief met exclusieve aanbiedingen en nieuws",
+      "placeholder": "Uw e-mailadres",
+      "button": "Aanmelden",
+      "success": "Bedankt voor uw aanmelding!",
+      "privacy": "Wij respecteren uw privacy. U kunt zich op elk moment afmelden."
+    },
+    "en": {
+      "title": "Stay updated",
+      "subtitle": "Receive our newsletter with exclusive offers and news",
+      "placeholder": "Your email address",
+      "button": "Subscribe",
+      "success": "Thank you for subscribing!",
+      "privacy": "We respect your privacy. You can unsubscribe at any time."
+    },
+    "de": {
+      "title": "Bleiben Sie informiert",
+      "subtitle": "Erhalten Sie unseren Newsletter mit exklusiven Angeboten und Neuigkeiten",
+      "placeholder": "Ihre E-Mail-Adresse",
+      "button": "Anmelden",
+      "success": "Vielen Dank für Ihre Anmeldung!",
+      "privacy": "Wir respektieren Ihre Privatsphäre. Sie können sich jederzeit abmelden."
+    },
+    "fr": {
+      "title": "Restez informé",
+      "subtitle": "Recevez notre newsletter avec des offres exclusives et des actualités",
+      "placeholder": "Votre adresse e-mail",
+      "button": "S'inscrire",
+      "success": "Merci de votre inscription!",
+      "privacy": "Nous respectons votre vie privée. Vous pouvez vous désabonner à tout moment."
+    }
+  },
+  "payment": {
+    "nl": {
+      "title": "Betaalmethoden",
+      "subtitle": "Veilig en eenvoudig betalen met uw favoriete betaalmethode",
+      "available": {
+        "title": "Beschikbare Betaalmethoden",
+        "subtitle": "Wij accepteren de volgende betaalmethoden"
+      },
+      "methods": {
+        "ideal": {
+          "title": "iDEAL",
+          "description": "Direct en veilig betalen via uw eigen bank. De meest populaire betaalmethode in Nederland."
+        },
+        "creditcard": {
+          "title": "Creditcard",
+          "description": "Betaal met Visa, Mastercard of American Express. Uw gegevens worden veilig verwerkt."
+        },
+        "paypal": {
+          "title": "PayPal",
+          "description": "Betaal snel en veilig met uw PayPal account. Geen creditcard nodig."
+        },
+        "banktransfer": {
+          "title": "Bankoverschrijving",
+          "description": "Overmaken naar onze bankrekening. Uw bestelling wordt verstuurd na ontvangst van de betaling."
+        },
+        "invoice": {
+          "title": "Betaling op Factuur",
+          "description": "Voor zakelijke klanten. Betaal binnen 30 dagen na factuurdatum. Goedkeuring vereist."
+        },
+        "sofort": {
+          "title": "Sofort",
+          "description": "Direct online overmaken via uw bank. Populair in Duitsland en Oostenrijk."
+        }
+      },
+      "security": {
+        "title": "Veiligheid",
+        "description": "Al onze betalingen worden verwerkt via beveiligde SSL-verbindingen. Wij slaan geen creditcardgegevens op. Betalingen worden verwerkt door gecertificeerde betalingsproviders die voldoen aan de hoogste veiligheidseisen (PCI DSS Level 1)."
+      },
+      "process": {
+        "title": "Betalingsproces",
+        "steps": [
+          {
+            "title": "Winkelwagen",
+            "description": "Voeg producten toe aan uw winkelwagen en ga naar de kassa."
+          },
+          {
+            "title": "Kies betaalmethode",
+            "description": "Selecteer uw voorkeursmanier van betalen."
+          },
+          {
+            "title": "Betaling afronden",
+            "description": "Volg de instructies van de gekozen betaalmethode."
+          },
+          {
+            "title": "Bevestiging",
+            "description": "U ontvangt direct een orderbevestiging per e-mail."
+          }
+        ]
+      },
+      "businessCustomers": {
+        "title": "Zakelijke Klanten",
+        "description": "Bent u een zakelijke klant met regelmatige bestellingen? Vraag een zakelijk account aan en profiteer van:",
+        "benefits": [
+          "Betaling op factuur (30 dagen betalingstermijn)",
+          "Exclusieve zakelijke kortingen",
+          "Persoonlijk accountbeheer",
+          "Maandelijkse factuuroverzichten",
+          "Prioriteit bij grote bestellingen"
+        ],
+        "cta": "Vraag een zakelijk account aan"
+      },
+      "currencies": {
+        "title": "Valuta",
+        "description": "U kunt betalen in Euro (EUR), Britse Pond (GBP) of Amerikaanse Dollar (USD). De valuta kan gewijzigd worden in de header van onze webshop."
+      },
+      "faq": {
+        "title": "Veelgestelde Vragen",
+        "questions": [
+          {
+            "q": "Wanneer wordt mijn betaling verwerkt?",
+            "a": "Betalingen via iDEAL, creditcard en PayPal worden direct verwerkt. Bij bankoverschrijving verwerken wij uw bestelling zodra we de betaling hebben ontvangen."
+          },
+          {
+            "q": "Is betalen veilig?",
+            "a": "Ja, al onze betalingen verlopen via beveiligde SSL-verbindingen en worden verwerkt door gecertificeerde betalingsproviders."
+          },
+          {
+            "q": "Kan ik achteraf betalen?",
+            "a": "Zakelijke klanten kunnen na goedkeuring betalen op factuur. Voor particulieren bieden wij momenteel geen achteraf betalen aan."
+          }
+        ]
+      }
+    },
+    "en": {
+      "title": "Payment Methods",
+      "subtitle": "Pay safely and easily with your favorite payment method",
+      "available": {
+        "title": "Available Payment Methods",
+        "subtitle": "We accept the following payment methods"
+      },
+      "methods": {
+        "ideal": {
+          "title": "iDEAL",
+          "description": "Pay directly and securely via your own bank. The most popular payment method in the Netherlands."
+        },
+        "creditcard": {
+          "title": "Credit Card",
+          "description": "Pay with Visa, Mastercard or American Express. Your details are processed securely."
+        },
+        "paypal": {
+          "title": "PayPal",
+          "description": "Pay quickly and securely with your PayPal account. No credit card required."
+        },
+        "banktransfer": {
+          "title": "Bank Transfer",
+          "description": "Transfer to our bank account. Your order will be shipped after payment is received."
+        },
+        "invoice": {
+          "title": "Payment by Invoice",
+          "description": "For business customers. Pay within 30 days of invoice date. Approval required."
+        },
+        "sofort": {
+          "title": "Sofort",
+          "description": "Direct online transfer via your bank. Popular in Germany and Austria."
+        }
+      },
+      "security": {
+        "title": "Security",
+        "description": "All our payments are processed via secure SSL connections. We do not store credit card details. Payments are processed by certified payment providers that meet the highest security requirements (PCI DSS Level 1)."
+      },
+      "process": {
+        "title": "Payment Process",
+        "steps": [
+          {
+            "title": "Shopping Cart",
+            "description": "Add products to your cart and proceed to checkout."
+          },
+          {
+            "title": "Choose payment method",
+            "description": "Select your preferred payment method."
+          },
+          {
+            "title": "Complete payment",
+            "description": "Follow the instructions of the chosen payment method."
+          },
+          {
+            "title": "Confirmation",
+            "description": "You will immediately receive an order confirmation by email."
+          }
+        ]
+      },
+      "businessCustomers": {
+        "title": "Business Customers",
+        "description": "Are you a business customer with regular orders? Request a business account and benefit from:",
+        "benefits": [
+          "Payment by invoice (30 days payment term)",
+          "Exclusive business discounts",
+          "Personal account management",
+          "Monthly invoice summaries",
+          "Priority for large orders"
+        ],
+        "cta": "Request a business account"
+      },
+      "currencies": {
+        "title": "Currency",
+        "description": "You can pay in Euro (EUR), British Pound (GBP) or US Dollar (USD). The currency can be changed in the header of our webshop."
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "questions": [
+          {
+            "q": "When will my payment be processed?",
+            "a": "Payments via iDEAL, credit card and PayPal are processed immediately. For bank transfers, we process your order as soon as we receive payment."
+          },
+          {
+            "q": "Is payment secure?",
+            "a": "Yes, all our payments are made via secure SSL connections and are processed by certified payment providers."
+          },
+          {
+            "q": "Can I pay later?",
+            "a": "Business customers can pay by invoice after approval. We currently do not offer pay later for private customers."
+          }
+        ]
+      }
+    },
+    "de": {
+      "title": "Zahlungsmethoden",
+      "subtitle": "Zahlen Sie sicher und einfach mit Ihrer bevorzugten Zahlungsmethode",
+      "available": {
+        "title": "Verfügbare Zahlungsmethoden",
+        "subtitle": "Wir akzeptieren die folgenden Zahlungsmethoden"
+      },
+      "methods": {
+        "ideal": {
+          "title": "iDEAL",
+          "description": "Direkt und sicher über Ihre eigene Bank bezahlen. Die beliebteste Zahlungsmethode in den Niederlanden."
+        },
+        "creditcard": {
+          "title": "Kreditkarte",
+          "description": "Bezahlen Sie mit Visa, Mastercard oder American Express. Ihre Daten werden sicher verarbeitet."
+        },
+        "paypal": {
+          "title": "PayPal",
+          "description": "Zahlen Sie schnell und sicher mit Ihrem PayPal-Konto. Keine Kreditkarte erforderlich."
+        },
+        "banktransfer": {
+          "title": "Banküberweisung",
+          "description": "Überweisung auf unser Bankkonto. Ihre Bestellung wird nach Zahlungseingang versandt."
+        },
+        "invoice": {
+          "title": "Zahlung auf Rechnung",
+          "description": "Für Geschäftskunden. Zahlung innerhalb von 30 Tagen nach Rechnungsdatum. Genehmigung erforderlich."
+        },
+        "sofort": {
+          "title": "Sofort",
+          "description": "Direkte Online-Überweisung über Ihre Bank. Beliebt in Deutschland und Österreich."
+        }
+      },
+      "security": {
+        "title": "Sicherheit",
+        "description": "Alle unsere Zahlungen werden über sichere SSL-Verbindungen verarbeitet. Wir speichern keine Kreditkartendaten. Zahlungen werden von zertifizierten Zahlungsanbietern verarbeitet, die den höchsten Sicherheitsanforderungen entsprechen (PCI DSS Level 1)."
+      },
+      "process": {
+        "title": "Zahlungsprozess",
+        "steps": [
+          {
+            "title": "Warenkorb",
+            "description": "Fügen Sie Produkte zu Ihrem Warenkorb hinzu und gehen Sie zur Kasse."
+          },
+          {
+            "title": "Zahlungsmethode wählen",
+            "description": "Wählen Sie Ihre bevorzugte Zahlungsmethode."
+          },
+          {
+            "title": "Zahlung abschließen",
+            "description": "Folgen Sie den Anweisungen der gewählten Zahlungsmethode."
+          },
+          {
+            "title": "Bestätigung",
+            "description": "Sie erhalten sofort eine Auftragsbestätigung per E-Mail."
+          }
+        ]
+      },
+      "businessCustomers": {
+        "title": "Geschäftskunden",
+        "description": "Sind Sie ein Geschäftskunde mit regelmäßigen Bestellungen? Fordern Sie ein Geschäftskonto an und profitieren Sie von:",
+        "benefits": [
+          "Zahlung auf Rechnung (30 Tage Zahlungsziel)",
+          "Exklusive Geschäftsrabatte",
+          "Persönliche Kontoverwaltung",
+          "Monatliche Rechnungsübersichten",
+          "Priorität bei Großbestellungen"
+        ],
+        "cta": "Geschäftskonto anfordern"
+      },
+      "currencies": {
+        "title": "Währung",
+        "description": "Sie können in Euro (EUR), Britischem Pfund (GBP) oder US-Dollar (USD) bezahlen. Die Währung kann im Header unseres Webshops geändert werden."
+      },
+      "faq": {
+        "title": "Häufig Gestellte Fragen",
+        "questions": [
+          {
+            "q": "Wann wird meine Zahlung verarbeitet?",
+            "a": "Zahlungen über iDEAL, Kreditkarte und PayPal werden sofort verarbeitet. Bei Banküberweisungen verarbeiten wir Ihre Bestellung, sobald wir die Zahlung erhalten haben."
+          },
+          {
+            "q": "Ist die Zahlung sicher?",
+            "a": "Ja, alle unsere Zahlungen erfolgen über sichere SSL-Verbindungen und werden von zertifizierten Zahlungsanbietern verarbeitet."
+          },
+          {
+            "q": "Kann ich später bezahlen?",
+            "a": "Geschäftskunden können nach Genehmigung auf Rechnung zahlen. Für Privatkunden bieten wir derzeit keine spätere Zahlung an."
+          }
+        ]
+      }
+    },
+    "fr": {
+      "title": "Méthodes de Paiement",
+      "subtitle": "Payez en toute sécurité et facilement avec votre méthode de paiement préférée",
+      "available": {
+        "title": "Méthodes de Paiement Disponibles",
+        "subtitle": "Nous acceptons les méthodes de paiement suivantes"
+      },
+      "methods": {
+        "ideal": {
+          "title": "iDEAL",
+          "description": "Payez directement et en toute sécurité via votre propre banque. La méthode de paiement la plus populaire aux Pays-Bas."
+        },
+        "creditcard": {
+          "title": "Carte de Crédit",
+          "description": "Payez avec Visa, Mastercard ou American Express. Vos données sont traitées en toute sécurité."
+        },
+        "paypal": {
+          "title": "PayPal",
+          "description": "Payez rapidement et en toute sécurité avec votre compte PayPal. Aucune carte de crédit requise."
+        },
+        "banktransfer": {
+          "title": "Virement Bancaire",
+          "description": "Virement sur notre compte bancaire. Votre commande sera expédiée après réception du paiement."
+        },
+        "invoice": {
+          "title": "Paiement sur Facture",
+          "description": "Pour les clients professionnels. Payez dans les 30 jours suivant la date de facture. Approbation requise."
+        },
+        "sofort": {
+          "title": "Sofort",
+          "description": "Virement en ligne direct via votre banque. Populaire en Allemagne et en Autriche."
+        }
+      },
+      "security": {
+        "title": "Sécurité",
+        "description": "Tous nos paiements sont traités via des connexions SSL sécurisées. Nous ne stockons pas les données de carte de crédit. Les paiements sont traités par des fournisseurs de paiement certifiés qui répondent aux exigences de sécurité les plus élevées (PCI DSS Level 1)."
+      },
+      "process": {
+        "title": "Processus de Paiement",
+        "steps": [
+          {
+            "title": "Panier",
+            "description": "Ajoutez des produits à votre panier et procédez au paiement."
+          },
+          {
+            "title": "Choisir le mode de paiement",
+            "description": "Sélectionnez votre méthode de paiement préférée."
+          },
+          {
+            "title": "Finaliser le paiement",
+            "description": "Suivez les instructions de la méthode de paiement choisie."
+          },
+          {
+            "title": "Confirmation",
+            "description": "Vous recevrez immédiatement une confirmation de commande par e-mail."
+          }
+        ]
+      },
+      "businessCustomers": {
+        "title": "Clients Professionnels",
+        "description": "Êtes-vous un client professionnel avec des commandes régulières? Demandez un compte professionnel et bénéficiez de:",
+        "benefits": [
+          "Paiement sur facture (30 jours de délai de paiement)",
+          "Remises professionnelles exclusives",
+          "Gestion de compte personnelle",
+          "Récapitulatifs de factures mensuels",
+          "Priorité pour les grandes commandes"
+        ],
+        "cta": "Demander un compte professionnel"
+      },
+      "currencies": {
+        "title": "Devise",
+        "description": "Vous pouvez payer en Euro (EUR), Livre Sterling (GBP) ou Dollar Américain (USD). La devise peut être modifiée dans l'en-tête de notre boutique en ligne."
+      },
+      "faq": {
+        "title": "Questions Fréquemment Posées",
+        "questions": [
+          {
+            "q": "Quand mon paiement sera-t-il traité?",
+            "a": "Les paiements via iDEAL, carte de crédit et PayPal sont traités immédiatement. Pour les virements bancaires, nous traitons votre commande dès réception du paiement."
+          },
+          {
+            "q": "Le paiement est-il sécurisé?",
+            "a": "Oui, tous nos paiements sont effectués via des connexions SSL sécurisées et sont traités par des fournisseurs de paiement certifiés."
+          },
+          {
+            "q": "Puis-je payer plus tard?",
+            "a": "Les clients professionnels peuvent payer sur facture après approbation. Nous n'offrons actuellement pas de paiement ultérieur pour les clients privés."
+          }
+        ]
+      }
+    }
+  },
+  "privacyPolicy": {
+    "nl": {
+      "title": "Privacy Beleid",
+      "lastUpdated": "Laatst bijgewerkt: 10 maart 2026",
+      "introduction": "Introductie",
+      "introText": "Vlag en Wimpel B.V. (\"wij\", \"ons\", \"onze\") hecht grote waarde aan uw privacy. Dit Privacy Beleid beschrijft hoe wij uw persoonlijke gegevens verzamelen, gebruiken, opslaan en beschermen wanneer u onze website bezoekt of gebruik maakt van onze diensten.",
+      "dataCollection": "Gegevensverzameling",
+      "dataCollectionText": "Wij verzamelen verschillende soorten informatie voor verschillende doeleinden om onze dienstverlening aan u te verbeteren.",
+      "personalData": "Persoonlijke Gegevens",
+      "personalDataText": "Bij het gebruik van onze dienst kunnen wij u vragen om ons bepaalde persoonlijk identificeerbare informatie te verstrekken die kan worden gebruikt om contact met u op te nemen of u te identificeren. Dit kan omvatten, maar is niet beperkt tot: E-mailadres, Voor- en achternaam, Telefoonnummer, Adres, Postcode, Stad",
+      "usageData": "Gebruiksgegevens",
+      "usageDataText": "Wij kunnen ook informatie verzamelen over hoe de dienst wordt benaderd en gebruikt. Deze gebruiksgegevens kunnen informatie bevatten zoals het IP-adres van uw computer, browsertype, browserversie, de pagina's van onze dienst die u bezoekt, de tijd en datum van uw bezoek, de tijd die op die pagina's wordt doorgebracht, en andere diagnostische gegevens.",
+      "dataUse": "Gebruik van Gegevens",
+      "dataUseText": "Vlag en Wimpel B.V. gebruikt de verzamelde gegevens voor verschillende doeleinden: Om onze dienst te leveren en te onderhouden, Om u wijzigingen in onze dienst te melden, Om u in staat te stellen deel te nemen aan interactieve functies van onze dienst, Om klantenondersteuning te bieden, Om analyse- of waardevolle informatie te verzamelen zodat we onze dienst kunnen verbeteren, Om het gebruik van de dienst te controleren, Om technische problemen te detecteren, op te lossen en te voorkomen",
+      "dataProtection": "Beveiliging van Gegevens",
+      "dataProtectionText": "De beveiliging van uw gegevens is belangrijk voor ons, maar houd er rekening mee dat geen enkele methode van verzending via internet of methode van elektronische opslag 100% veilig is. Hoewel we ernaar streven commercieel acceptabele middelen te gebruiken om uw persoonlijke gegevens te beschermen, kunnen we de absolute veiligheid ervan niet garanderen.",
+      "yourRights": "Uw Rechten",
+      "yourRightsText": "U heeft het recht om toegang te krijgen tot uw persoonlijke gegevens, deze te corrigeren, bij te werken of te verzoeken om verwijdering. U kunt ook bezwaar maken tegen de verwerking van uw persoonlijke gegevens, vragen om beperking van de verwerking van uw persoonlijke gegevens of verzoeken om overdraagbaarheid van uw persoonlijke gegevens.",
+      "contact": "Contact",
+      "contactText": "Als u vragen heeft over dit Privacy Beleid, kunt u contact met ons opnemen: Per e-mail: privacy@vlagenwimpel.nl, Per telefoon: +31 (0)20 123 4567, Per post: Hoofdstraat 123, 1234 AB Amsterdam, Nederland"
+    },
+    "en": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated: March 10, 2026",
+      "introduction": "Introduction",
+      "introText": "Vlag en Wimpel B.V. (\"we\", \"us\", \"our\") values your privacy. This Privacy Policy describes how we collect, use, store and protect your personal data when you visit our website or use our services.",
+      "dataCollection": "Data Collection",
+      "dataCollectionText": "We collect different types of information for various purposes to improve our service to you.",
+      "personalData": "Personal Data",
+      "personalDataText": "While using our service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. This may include, but is not limited to: Email address, First and last name, Phone number, Address, Postal code, City",
+      "usageData": "Usage Data",
+      "usageDataText": "We may also collect information about how the service is accessed and used. This usage data may include information such as your computer's Internet Protocol address, browser type, browser version, the pages of our service that you visit, the time and date of your visit, the time spent on those pages, and other diagnostic data.",
+      "dataUse": "Use of Data",
+      "dataUseText": "Vlag en Wimpel B.V. uses the collected data for various purposes: To provide and maintain our service, To notify you about changes to our service, To allow you to participate in interactive features of our service, To provide customer support, To gather analysis or valuable information so that we can improve our service, To monitor the usage of the service, To detect, prevent and address technical issues",
+      "dataProtection": "Security of Data",
+      "dataProtectionText": "The security of your data is important to us, but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.",
+      "yourRights": "Your Rights",
+      "yourRightsText": "You have the right to access your personal data, correct it, update it or request its deletion. You may also object to the processing of your personal data, request restriction of processing of your personal data or request portability of your personal data.",
+      "contact": "Contact",
+      "contactText": "If you have any questions about this Privacy Policy, you can contact us: By email: privacy@flagandpennant.com, By phone: +31 (0)20 123 4567, By mail: Main Street 123, 1234 AB Amsterdam, Netherlands"
+    },
+    "de": {
+      "title": "Datenschutzerklärung",
+      "lastUpdated": "Zuletzt aktualisiert: 10. März 2026",
+      "introduction": "Einführung",
+      "introText": "Vlag en Wimpel B.V. (\"wir\", \"uns\", \"unser\") legt großen Wert auf Ihre Privatsphäre. Diese Datenschutzerklärung beschreibt, wie wir Ihre persönlichen Daten erfassen, verwenden, speichern und schützen, wenn Sie unsere Website besuchen oder unsere Dienste nutzen.",
+      "dataCollection": "Datenerfassung",
+      "dataCollectionText": "Wir erfassen verschiedene Arten von Informationen für verschiedene Zwecke, um unseren Service für Sie zu verbessern.",
+      "personalData": "Persönliche Daten",
+      "personalDataText": "Bei der Nutzung unseres Dienstes können wir Sie bitten, uns bestimmte persönlich identifizierbare Informationen zur Verfügung zu stellen, die verwendet werden können, um Sie zu kontaktieren oder zu identifizieren. Dies kann umfassen, ist aber nicht beschränkt auf: E-Mail-Adresse, Vor- und Nachname, Telefonnummer, Adresse, Postleitzahl, Stadt",
+      "usageData": "Nutzungsdaten",
+      "usageDataText": "Wir können auch Informationen darüber sammeln, wie auf den Dienst zugegriffen und wie er genutzt wird. Diese Nutzungsdaten können Informationen wie die Internetprotokoll-Adresse Ihres Computers, Browsertyp, Browserversion, die von Ihnen besuchten Seiten unseres Dienstes, die Uhrzeit und das Datum Ihres Besuchs, die auf diesen Seiten verbrachte Zeit und andere Diagnosedaten enthalten.",
+      "dataUse": "Verwendung von Daten",
+      "dataUseText": "Vlag en Wimpel B.V. verwendet die gesammelten Daten für verschiedene Zwecke: Um unseren Service bereitzustellen und zu warten, Um Sie über Änderungen an unserem Service zu informieren, Um Ihnen die Teilnahme an interaktiven Funktionen unseres Services zu ermöglichen, Um Kundensupport bereitzustellen, Um Analysen oder wertvolle Informationen zu sammeln, damit wir unseren Service verbessern können, Um die Nutzung des Services zu überwachen, Um technische Probleme zu erkennen, zu verhindern und zu beheben",
+      "dataProtection": "Datensicherheit",
+      "dataProtectionText": "Die Sicherheit Ihrer Daten ist uns wichtig, aber denken Sie daran, dass keine Übertragungsmethode über das Internet oder elektronische Speichermethode 100% sicher ist. Obwohl wir bestrebt sind, kommerziell akzeptable Mittel zum Schutz Ihrer persönlichen Daten zu verwenden, können wir deren absolute Sicherheit nicht garantieren.",
+      "yourRights": "Ihre Rechte",
+      "yourRightsText": "Sie haben das Recht, auf Ihre persönlichen Daten zuzugreifen, diese zu korrigieren, zu aktualisieren oder deren Löschung zu verlangen. Sie können auch der Verarbeitung Ihrer persönlichen Daten widersprechen, die Einschränkung der Verarbeitung Ihrer persönlichen Daten verlangen oder die Übertragbarkeit Ihrer persönlichen Daten anfordern.",
+      "contact": "Kontakt",
+      "contactText": "Wenn Sie Fragen zu dieser Datenschutzerklärung haben, können Sie uns kontaktieren: Per E-Mail: privacy@flaggeundwimpel.de, Per Telefon: +31 (0)20 123 4567, Per Post: Hauptstraße 123, 1234 AB Amsterdam, Niederlande"
+    },
+    "fr": {
+      "title": "Politique de Confidentialité",
+      "lastUpdated": "Dernière mise à jour : 10 mars 2026",
+      "introduction": "Introduction",
+      "introText": "Vlag en Wimpel B.V. (\"nous\", \"notre\") accorde une grande importance à votre vie privée. Cette Politique de Confidentialité décrit comment nous collectons, utilisons, stockons et protégeons vos données personnelles lorsque vous visitez notre site web ou utilisez nos services.",
+      "dataCollection": "Collecte de Données",
+      "dataCollectionText": "Nous collectons différents types d'informations à diverses fins pour améliorer notre service.",
+      "personalData": "Données Personnelles",
+      "personalDataText": "Lors de l'utilisation de notre service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables qui peuvent être utilisées pour vous contacter ou vous identifier. Cela peut inclure, mais sans s'y limiter : Adresse e-mail, Prénom et nom de famille, Numéro de téléphone, Adresse, Code postal, Ville",
+      "usageData": "Données d'Utilisation",
+      "usageDataText": "Nous pouvons également collecter des informations sur la façon dont le service est accédé et utilisé. Ces données d'utilisation peuvent inclure des informations telles que l'adresse de protocole Internet de votre ordinateur, le type de navigateur, la version du navigateur, les pages de notre service que vous visitez, l'heure et la date de votre visite, le temps passé sur ces pages et d'autres données de diagnostic.",
+      "dataUse": "Utilisation des Données",
+      "dataUseText": "Vlag en Wimpel B.V. utilise les données collectées à diverses fins : Pour fournir et maintenir notre service, Pour vous informer des modifications apportées à notre service, Pour vous permettre de participer aux fonctionnalités interactives de notre service, Pour fournir un support client, Pour recueillir des analyses ou des informations précieuses afin que nous puissions améliorer notre service, Pour surveiller l'utilisation du service, Pour détecter, prévenir et résoudre les problèmes techniques",
+      "dataProtection": "Sécurité des Données",
+      "dataProtectionText": "La sécurité de vos données est importante pour nous, mais rappelez-vous qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sûre à 100%. Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger vos données personnelles, nous ne pouvons garantir leur sécurité absolue.",
+      "yourRights": "Vos Droits",
+      "yourRightsText": "Vous avez le droit d'accéder à vos données personnelles, de les corriger, de les mettre à jour ou de demander leur suppression. Vous pouvez également vous opposer au traitement de vos données personnelles, demander la restriction du traitement de vos données personnelles ou demander la portabilité de vos données personnelles.",
+      "contact": "Contact",
+      "contactText": "Si vous avez des questions concernant cette Politique de Confidentialité, vous pouvez nous contacter : Par e-mail : privacy@drapeauxetfanions.fr, Par téléphone : +31 (0)20 123 4567, Par courrier : Rue Principale 123, 1234 AB Amsterdam, Pays-Bas"
+    }
+  },
+  "productGrid": {
+    "nl": {
+      "from": "Vanaf",
+      "customize": "Aanpassen",
+      "noResults": "Geen producten gevonden",
+      "noResultsDesc": "Probeer de filters aan te passen",
+      "reviews": "beoordelingen",
+      "bestseller": "Bestseller",
+      "new": "Nieuw",
+      "popular": "Populair"
+    },
+    "en": {
+      "from": "From",
+      "customize": "Customize",
+      "noResults": "No products found",
+      "noResultsDesc": "Try adjusting the filters",
+      "reviews": "reviews",
+      "bestseller": "Bestseller",
+      "new": "New",
+      "popular": "Popular"
+    },
+    "de": {
+      "from": "Ab",
+      "customize": "Anpassen",
+      "noResults": "Keine Produkte gefunden",
+      "noResultsDesc": "Versuchen Sie die Filter anzupassen",
+      "reviews": "Bewertungen",
+      "bestseller": "Bestseller",
+      "new": "Neu",
+      "popular": "Beliebt"
+    },
+    "fr": {
+      "from": "À partir de",
+      "customize": "Personnaliser",
+      "noResults": "Aucun produit trouvé",
+      "noResultsDesc": "Essayez d'ajuster les filtres",
+      "reviews": "avis",
+      "bestseller": "Best-seller",
+      "new": "Nouveau",
+      "popular": "Populaire"
+    }
+  },
+  "productSort": {
+    "nl": {
+      "showing": "Toont",
+      "products": "producten",
+      "sortBy": "Sorteer op",
+      "popular": "Meest populair",
+      "priceLow": "Prijs: laag naar hoog",
+      "priceHigh": "Prijs: hoog naar laag",
+      "newest": "Nieuwste eerst",
+      "name": "Naam A-Z"
+    },
+    "en": {
+      "showing": "Showing",
+      "products": "products",
+      "sortBy": "Sort by",
+      "popular": "Most popular",
+      "priceLow": "Price: low to high",
+      "priceHigh": "Price: high to low",
+      "newest": "Newest first",
+      "name": "Name A-Z"
+    },
+    "de": {
+      "showing": "Zeigt",
+      "products": "Produkte",
+      "sortBy": "Sortieren nach",
+      "popular": "Am beliebtesten",
+      "priceLow": "Preis: niedrig bis hoch",
+      "priceHigh": "Preis: hoch bis niedrig",
+      "newest": "Neueste zuerst",
+      "name": "Name A-Z"
+    },
+    "fr": {
+      "showing": "Affichage",
+      "products": "produits",
+      "sortBy": "Trier par",
+      "popular": "Plus populaire",
+      "priceLow": "Prix: bas à élevé",
+      "priceHigh": "Prix: élevé à bas",
+      "newest": "Plus récent",
+      "name": "Nom A-Z"
+    }
+  },
+  "returns": {
+    "nl": {
+      "title": "Retourneren",
+      "subtitle": "Ons retourbeleid en instructies voor het retourneren van producten",
+      "policy": {
+        "title": "Retourbeleid",
+        "period": "30 dagen bedenktijd",
+        "periodDesc": "U heeft 30 dagen bedenktijd vanaf de ontvangstdatum om uw bestelling te retourneren.",
+        "conditions": "Voorwaarden",
+        "conditionsList": [
+          "Het product moet ongebruikt en in originele staat zijn",
+          "Alle originele verpakkingen en labels moeten intact zijn",
+          "U heeft het aankoopbewijs (factuur of orderbevestiging)",
+          "Het product mag geen tekenen van gebruik vertonen"
+        ]
+      },
+      "canReturn": {
+        "title": "Wat kan worden geretourneerd?",
+        "items": [
+          "Standaard landvlaggen",
+          "Standaard bedrijfsvlaggen (zonder logo)",
+          "Accessoires (ongebruikt en in originele verpakking)",
+          "Vlaggenstokken en bevestigingsmaterialen"
+        ]
+      },
+      "cannotReturn": {
+        "title": "Wat kan NIET worden geretourneerd?",
+        "items": [
+          "Custom vlaggen met uw eigen logo of ontwerp",
+          "Op maat gemaakte producten",
+          "Gebruikte of beschadigde producten",
+          "Producten zonder originele verpakking",
+          "Sale items (tenzij defect)"
+        ]
+      },
+      "howTo": {
+        "title": "Hoe retourneren?",
+        "steps": [
+          {
+            "title": "Stap 1: Neem contact op",
+            "description": "Stuur een e-mail naar info@vlagenwimpel.nl met uw ordernummer en de reden voor retournering."
+          },
+          {
+            "title": "Stap 2: Ontvang retourlabel",
+            "description": "U ontvangt binnen 24 uur een retourlabel en instructies per e-mail."
+          },
+          {
+            "title": "Stap 3: Pak het product in",
+            "description": "Verpak het product zorgvuldig in de originele verpakking. Voeg uw factuur of orderbevestiging toe."
+          },
+          {
+            "title": "Stap 4: Verstuur het pakket",
+            "description": "Plak het retourlabel op het pakket en geef het af bij een PostNL of DHL punt."
+          },
+          {
+            "title": "Stap 5: Terugbetaling",
+            "description": "Na ontvangst en controle ontvangt u binnen 5-7 werkdagen uw geld terug."
+          }
+        ]
+      },
+      "refund": {
+        "title": "Terugbetaling",
+        "description": "Na goedkeuring van uw retour wordt het bedrag binnen 5-7 werkdagen teruggestort op de rekening waarmee u heeft betaald. U ontvangt een bevestigingsmail zodra de terugbetaling is verwerkt.",
+        "costs": "Retourkosten",
+        "costsDesc": "Als u gebruikmaakt van ons retourlabel, worden de retourkosten (€6,95) afgetrokken van het terugbetaalde bedrag. Bij een defect of verkeerd geleverd product zijn de retourkosten voor onze rekening."
+      },
+      "exchange": {
+        "title": "Ruilen",
+        "description": "Wilt u een product ruilen voor een ander formaat, kleur of model? Retourneer dan eerst het originele product volgens de bovenstaande instructies. Na ontvangst van de retourzending kunt u een nieuwe bestelling plaatsen."
+      },
+      "defective": {
+        "title": "Defect of beschadigd product?",
+        "description": "Heeft u een defect of beschadigd product ontvangen? Neem dan binnen 48 uur na ontvangst contact met ons op. Stuur foto's mee van het defect of de beschadiging. Wij regelen kosteloos een vervanging of retourzending."
+      }
+    },
+    "en": {
+      "title": "Returns",
+      "subtitle": "Our return policy and instructions for returning products",
+      "policy": {
+        "title": "Return Policy",
+        "period": "30-day cooling-off period",
+        "periodDesc": "You have 30 days from the date of receipt to return your order.",
+        "conditions": "Conditions",
+        "conditionsList": [
+          "The product must be unused and in original condition",
+          "All original packaging and labels must be intact",
+          "You have proof of purchase (invoice or order confirmation)",
+          "The product must show no signs of use"
+        ]
+      },
+      "canReturn": {
+        "title": "What can be returned?",
+        "items": [
+          "Standard country flags",
+          "Standard corporate flags (without logo)",
+          "Accessories (unused and in original packaging)",
+          "Flagpoles and mounting materials"
+        ]
+      },
+      "cannotReturn": {
+        "title": "What CANNOT be returned?",
+        "items": [
+          "Custom flags with your own logo or design",
+          "Custom-made products",
+          "Used or damaged products",
+          "Products without original packaging",
+          "Sale items (unless defective)"
+        ]
+      },
+      "howTo": {
+        "title": "How to return?",
+        "steps": [
+          {
+            "title": "Step 1: Contact us",
+            "description": "Send an email to info@flagandpennant.com with your order number and reason for return."
+          },
+          {
+            "title": "Step 2: Receive return label",
+            "description": "You will receive a return label and instructions via email within 24 hours."
+          },
+          {
+            "title": "Step 3: Pack the product",
+            "description": "Pack the product carefully in the original packaging. Include your invoice or order confirmation."
+          },
+          {
+            "title": "Step 4: Ship the package",
+            "description": "Attach the return label to the package and drop it off at a PostNL or DHL point."
+          },
+          {
+            "title": "Step 5: Refund",
+            "description": "After receipt and inspection, you will receive your money back within 5-7 working days."
+          }
+        ]
+      },
+      "refund": {
+        "title": "Refund",
+        "description": "After approval of your return, the amount will be refunded within 5-7 working days to the account with which you paid. You will receive a confirmation email once the refund has been processed.",
+        "costs": "Return Costs",
+        "costsDesc": "If you use our return label, the return costs (€6.95) will be deducted from the refunded amount. For defective or incorrectly delivered products, the return costs are at our expense."
+      },
+      "exchange": {
+        "title": "Exchange",
+        "description": "Would you like to exchange a product for another size, color or model? First return the original product according to the instructions above. After receiving the return, you can place a new order."
+      },
+      "defective": {
+        "title": "Defective or damaged product?",
+        "description": "Have you received a defective or damaged product? Please contact us within 48 hours after receipt. Send photos of the defect or damage. We will arrange a free replacement or return shipment."
+      }
+    },
+    "de": {
+      "title": "Rücksendungen",
+      "subtitle": "Unsere Rückgaberichtlinie und Anweisungen für die Rücksendung von Produkten",
+      "policy": {
+        "title": "Rückgaberichtlinie",
+        "period": "30 Tage Bedenkzeit",
+        "periodDesc": "Sie haben 30 Tage ab Erhaltungsdatum, um Ihre Bestellung zurückzusenden.",
+        "conditions": "Bedingungen",
+        "conditionsList": [
+          "Das Produkt muss unbenutzt und in Originalzustand sein",
+          "Alle Originalverpackungen und Etiketten müssen intakt sein",
+          "Sie haben einen Kaufbeleg (Rechnung oder Auftragsbestätigung)",
+          "Das Produkt darf keine Gebrauchsspuren aufweisen"
+        ]
+      },
+      "canReturn": {
+        "title": "Was kann zurückgegeben werden?",
+        "items": [
+          "Standard-Länderflaggen",
+          "Standard-Firmenflaggen (ohne Logo)",
+          "Zubehör (unbenutzt und in Originalverpackung)",
+          "Fahnenstangen und Befestigungsmaterialien"
+        ]
+      },
+      "cannotReturn": {
+        "title": "Was kann NICHT zurückgegeben werden?",
+        "items": [
+          "Custom-Flaggen mit Ihrem eigenen Logo oder Design",
+          "Maßgeschneiderte Produkte",
+          "Gebrauchte oder beschädigte Produkte",
+          "Produkte ohne Originalverpackung",
+          "Sale-Artikel (sofern nicht defekt)"
+        ]
+      },
+      "howTo": {
+        "title": "Wie zurücksenden?",
+        "steps": [
+          {
+            "title": "Schritt 1: Kontaktieren Sie uns",
+            "description": "Senden Sie eine E-Mail an info@flaggeundwimpel.de mit Ihrer Bestellnummer und dem Grund für die Rücksendung."
+          },
+          {
+            "title": "Schritt 2: Rücksendeetikett erhalten",
+            "description": "Sie erhalten innerhalb von 24 Stunden ein Rücksendeetikett und Anweisungen per E-Mail."
+          },
+          {
+            "title": "Schritt 3: Produkt verpacken",
+            "description": "Verpacken Sie das Produkt sorgfältig in der Originalverpackung. Fügen Sie Ihre Rechnung oder Auftragsbestätigung hinzu."
+          },
+          {
+            "title": "Schritt 4: Paket versenden",
+            "description": "Kleben Sie das Rücksendeetikett auf das Paket und geben Sie es bei einer PostNL- oder DHL-Stelle ab."
+          },
+          {
+            "title": "Schritt 5: Rückerstattung",
+            "description": "Nach Erhalt und Prüfung erhalten Sie Ihr Geld innerhalb von 5-7 Werktagen zurück."
+          }
+        ]
+      },
+      "refund": {
+        "title": "Rückerstattung",
+        "description": "Nach Genehmigung Ihrer Rücksendung wird der Betrag innerhalb von 5-7 Werktagen auf das Konto erstattet, mit dem Sie bezahlt haben. Sie erhalten eine Bestätigungs-E-Mail, sobald die Rückerstattung bearbeitet wurde.",
+        "costs": "Rücksendekosten",
+        "costsDesc": "Wenn Sie unser Rücksendeetikett verwenden, werden die Rücksendekosten (€6,95) vom erstatteten Betrag abgezogen. Bei defekten oder falsch gelieferten Produkten gehen die Rücksendekosten zu unseren Lasten."
+      },
+      "exchange": {
+        "title": "Umtausch",
+        "description": "Möchten Sie ein Produkt gegen eine andere Größe, Farbe oder ein anderes Modell umtauschen? Senden Sie zuerst das Originalprodukt gemäß den obigen Anweisungen zurück. Nach Erhalt der Rücksendung können Sie eine neue Bestellung aufgeben."
+      },
+      "defective": {
+        "title": "Defektes oder beschädigtes Produkt?",
+        "description": "Haben Sie ein defektes oder beschädigtes Produkt erhalten? Kontaktieren Sie uns bitte innerhalb von 48 Stunden nach Erhalt. Senden Sie Fotos des Defekts oder der Beschädigung mit. Wir regeln kostenlos einen Ersatz oder eine Rücksendung."
+      }
+    },
+    "fr": {
+      "title": "Retours",
+      "subtitle": "Notre politique de retour et instructions pour retourner des produits",
+      "policy": {
+        "title": "Politique de Retour",
+        "period": "Délai de réflexion de 30 jours",
+        "periodDesc": "Vous disposez de 30 jours à compter de la date de réception pour retourner votre commande.",
+        "conditions": "Conditions",
+        "conditionsList": [
+          "Le produit doit être inutilisé et dans son état d'origine",
+          "Tous les emballages et étiquettes d'origine doivent être intacts",
+          "Vous avez une preuve d'achat (facture ou confirmation de commande)",
+          "Le produit ne doit montrer aucun signe d'utilisation"
+        ]
+      },
+      "canReturn": {
+        "title": "Qu'est-ce qui peut être retourné?",
+        "items": [
+          "Drapeaux nationaux standard",
+          "Drapeaux d'entreprise standard (sans logo)",
+          "Accessoires (inutilisés et dans l'emballage d'origine)",
+          "Mâts et matériaux de fixation"
+        ]
+      },
+      "cannotReturn": {
+        "title": "Qu'est-ce qui NE PEUT PAS être retourné?",
+        "items": [
+          "Drapeaux personnalisés avec votre propre logo ou design",
+          "Produits sur mesure",
+          "Produits utilisés ou endommagés",
+          "Produits sans emballage d'origine",
+          "Articles en solde (sauf s'ils sont défectueux)"
+        ]
+      },
+      "howTo": {
+        "title": "Comment retourner?",
+        "steps": [
+          {
+            "title": "Étape 1: Contactez-nous",
+            "description": "Envoyez un e-mail à info@drapeauxetfanions.fr avec votre numéro de commande et la raison du retour."
+          },
+          {
+            "title": "Étape 2: Recevez l'étiquette de retour",
+            "description": "Vous recevrez une étiquette de retour et des instructions par e-mail dans les 24 heures."
+          },
+          {
+            "title": "Étape 3: Emballez le produit",
+            "description": "Emballez soigneusement le produit dans son emballage d'origine. Joignez votre facture ou confirmation de commande."
+          },
+          {
+            "title": "Étape 4: Envoyez le colis",
+            "description": "Collez l'étiquette de retour sur le colis et déposez-le dans un point PostNL ou DHL."
+          },
+          {
+            "title": "Étape 5: Remboursement",
+            "description": "Après réception et inspection, vous serez remboursé sous 5-7 jours ouvrables."
+          }
+        ]
+      },
+      "refund": {
+        "title": "Remboursement",
+        "description": "Après approbation de votre retour, le montant sera remboursé sous 5-7 jours ouvrables sur le compte avec lequel vous avez payé. Vous recevrez un e-mail de confirmation une fois le remboursement traité.",
+        "costs": "Frais de Retour",
+        "costsDesc": "Si vous utilisez notre étiquette de retour, les frais de retour (€6,95) seront déduits du montant remboursé. Pour les produits défectueux ou livrés incorrectement, les frais de retour sont à notre charge."
+      },
+      "exchange": {
+        "title": "Échange",
+        "description": "Souhaitez-vous échanger un produit pour une autre taille, couleur ou modèle? Retournez d'abord le produit original selon les instructions ci-dessus. Après réception du retour, vous pouvez passer une nouvelle commande."
+      },
+      "defective": {
+        "title": "Produit défectueux ou endommagé?",
+        "description": "Avez-vous reçu un produit défectueux ou endommagé? Veuillez nous contacter dans les 48 heures après réception. Envoyez des photos du défaut ou des dommages. Nous organiserons gratuitement un remplacement ou un retour."
+      }
+    }
+  },
+  "shipping": {
+    "nl": {
+      "title": "Verzending & Levering",
+      "subtitle": "Alles wat u moet weten over onze verzend- en leveringsmogelijkheden",
+      "shippingCosts": {
+        "title": "Verzendkosten",
+        "free": "Gratis verzending vanaf €75",
+        "standard": "Standaard verzending: €8,95",
+        "express": "Express verzending: €14,95",
+        "international": "Internationale verzending: Vanaf €19,95",
+        "note": "Verzendkosten worden berekend tijdens het afrekenen op basis van uw locatie en het gewicht van uw bestelling."
+      },
+      "deliveryTimes": {
+        "title": "Levertijden",
+        "nl": {
+          "title": "Nederland",
+          "standard": "Standaard vlaggen: 2-3 werkdagen",
+          "custom": "Custom vlaggen met logo: 5-7 werkdagen",
+          "express": "Express levering: 1-2 werkdagen"
+        },
+        "eu": {
+          "title": "EU Landen",
+          "standard": "Standaard vlaggen: 3-5 werkdagen",
+          "custom": "Custom vlaggen met logo: 7-10 werkdagen",
+          "express": "Express levering: 2-3 werkdagen"
+        },
+        "international": {
+          "title": "Internationaal (buiten EU)",
+          "standard": "Standaard vlaggen: 5-10 werkdagen",
+          "custom": "Custom vlaggen met logo: 10-14 werkdagen",
+          "note": "Let op: Douaneafhandeling kan extra tijd in beslag nemen"
+        }
+      },
+      "shippingMethods": {
+        "title": "Verzendmethoden",
+        "standard": {
+          "title": "Standaard Verzending",
+          "description": "Betrouwbare verzending via PostNL of DHL. Track & Trace inbegrepen."
+        },
+        "express": {
+          "title": "Express Verzending",
+          "description": "Versnelde levering voor dringende bestellingen. Voor 12:00 besteld, morgen in huis (werkdagen)."
+        },
+        "international": {
+          "title": "Internationale Verzending",
+          "description": "Wereldwijde verzending via DHL Express. Douanedocumenten inbegrepen."
+        }
+      },
+      "tracking": {
+        "title": "Track & Trace",
+        "description": "Na verzending ontvangt u automatisch een Track & Trace code per e-mail. Hiermee kunt u uw bestelling realtime volgen."
+      },
+      "largeOrders": {
+        "title": "Grote Bestellingen",
+        "description": "Voor bestellingen van meer dan 50 vlaggen of zeer grote formaten nemen wij contact met u op voor een op maat gemaakte verzendoplossing. Neem voor vragen contact op met onze klantenservice."
+      }
+    },
+    "en": {
+      "title": "Shipping & Delivery",
+      "subtitle": "Everything you need to know about our shipping and delivery options",
+      "shippingCosts": {
+        "title": "Shipping Costs",
+        "free": "Free shipping from €75",
+        "standard": "Standard shipping: €8.95",
+        "express": "Express shipping: €14.95",
+        "international": "International shipping: From €19.95",
+        "note": "Shipping costs are calculated during checkout based on your location and the weight of your order."
+      },
+      "deliveryTimes": {
+        "title": "Delivery Times",
+        "nl": {
+          "title": "Netherlands",
+          "standard": "Standard flags: 2-3 working days",
+          "custom": "Custom flags with logo: 5-7 working days",
+          "express": "Express delivery: 1-2 working days"
+        },
+        "eu": {
+          "title": "EU Countries",
+          "standard": "Standard flags: 3-5 working days",
+          "custom": "Custom flags with logo: 7-10 working days",
+          "express": "Express delivery: 2-3 working days"
+        },
+        "international": {
+          "title": "International (outside EU)",
+          "standard": "Standard flags: 5-10 working days",
+          "custom": "Custom flags with logo: 10-14 working days",
+          "note": "Note: Customs clearance may take additional time"
+        }
+      },
+      "shippingMethods": {
+        "title": "Shipping Methods",
+        "standard": {
+          "title": "Standard Shipping",
+          "description": "Reliable shipping via PostNL or DHL. Track & Trace included."
+        },
+        "express": {
+          "title": "Express Shipping",
+          "description": "Expedited delivery for urgent orders. Ordered before 12:00, delivered tomorrow (working days)."
+        },
+        "international": {
+          "title": "International Shipping",
+          "description": "Worldwide shipping via DHL Express. Customs documents included."
+        }
+      },
+      "tracking": {
+        "title": "Track & Trace",
+        "description": "After shipping, you will automatically receive a Track & Trace code via email. This allows you to track your order in real-time."
+      },
+      "largeOrders": {
+        "title": "Large Orders",
+        "description": "For orders of more than 50 flags or very large formats, we will contact you for a customized shipping solution. Please contact our customer service for questions."
+      }
+    },
+    "de": {
+      "title": "Versand & Lieferung",
+      "subtitle": "Alles, was Sie über unsere Versand- und Lieferoptionen wissen müssen",
+      "shippingCosts": {
+        "title": "Versandkosten",
+        "free": "Kostenloser Versand ab €75",
+        "standard": "Standardversand: €8,95",
+        "express": "Expressversand: €14,95",
+        "international": "Internationaler Versand: Ab €19,95",
+        "note": "Die Versandkosten werden beim Checkout basierend auf Ihrem Standort und dem Gewicht Ihrer Bestellung berechnet."
+      },
+      "deliveryTimes": {
+        "title": "Lieferzeiten",
+        "nl": {
+          "title": "Niederlande",
+          "standard": "Standardflaggen: 2-3 Werktage",
+          "custom": "Custom-Flaggen mit Logo: 5-7 Werktage",
+          "express": "Express-Lieferung: 1-2 Werktage"
+        },
+        "eu": {
+          "title": "EU-Länder",
+          "standard": "Standardflaggen: 3-5 Werktage",
+          "custom": "Custom-Flaggen mit Logo: 7-10 Werktage",
+          "express": "Express-Lieferung: 2-3 Werktage"
+        },
+        "international": {
+          "title": "International (außerhalb EU)",
+          "standard": "Standardflaggen: 5-10 Werktage",
+          "custom": "Custom-Flaggen mit Logo: 10-14 Werktage",
+          "note": "Hinweis: Die Zollabfertigung kann zusätzliche Zeit in Anspruch nehmen"
+        }
+      },
+      "shippingMethods": {
+        "title": "Versandmethoden",
+        "standard": {
+          "title": "Standardversand",
+          "description": "Zuverlässiger Versand über PostNL oder DHL. Track & Trace inklusive."
+        },
+        "express": {
+          "title": "Expressversand",
+          "description": "Beschleunigte Lieferung für dringende Bestellungen. Vor 12:00 Uhr bestellt, morgen geliefert (Werktage)."
+        },
+        "international": {
+          "title": "Internationaler Versand",
+          "description": "Weltweiter Versand über DHL Express. Zolldokumente inklusive."
+        }
+      },
+      "tracking": {
+        "title": "Track & Trace",
+        "description": "Nach dem Versand erhalten Sie automatisch einen Track & Trace-Code per E-Mail. Damit können Sie Ihre Bestellung in Echtzeit verfolgen."
+      },
+      "largeOrders": {
+        "title": "Großbestellungen",
+        "description": "Für Bestellungen von mehr als 50 Flaggen oder sehr großen Formaten kontaktieren wir Sie für eine maßgeschneiderte Versandlösung. Bei Fragen wenden Sie sich bitte an unseren Kundenservice."
+      }
+    },
+    "fr": {
+      "title": "Livraison",
+      "subtitle": "Tout ce que vous devez savoir sur nos options de livraison",
+      "shippingCosts": {
+        "title": "Frais de Livraison",
+        "free": "Livraison gratuite à partir de €75",
+        "standard": "Livraison standard: €8,95",
+        "express": "Livraison express: €14,95",
+        "international": "Livraison internationale: À partir de €19,95",
+        "note": "Les frais de livraison sont calculés lors du paiement en fonction de votre emplacement et du poids de votre commande."
+      },
+      "deliveryTimes": {
+        "title": "Délais de Livraison",
+        "nl": {
+          "title": "Pays-Bas",
+          "standard": "Drapeaux standard: 2-3 jours ouvrables",
+          "custom": "Drapeaux personnalisés avec logo: 5-7 jours ouvrables",
+          "express": "Livraison express: 1-2 jours ouvrables"
+        },
+        "eu": {
+          "title": "Pays de l'UE",
+          "standard": "Drapeaux standard: 3-5 jours ouvrables",
+          "custom": "Drapeaux personnalisés avec logo: 7-10 jours ouvrables",
+          "express": "Livraison express: 2-3 jours ouvrables"
+        },
+        "international": {
+          "title": "International (hors UE)",
+          "standard": "Drapeaux standard: 5-10 jours ouvrables",
+          "custom": "Drapeaux personnalisés avec logo: 10-14 jours ouvrables",
+          "note": "Remarque: Le dédouanement peut prendre du temps supplémentaire"
+        }
+      },
+      "shippingMethods": {
+        "title": "Méthodes de Livraison",
+        "standard": {
+          "title": "Livraison Standard",
+          "description": "Livraison fiable via PostNL ou DHL. Track & Trace inclus."
+        },
+        "express": {
+          "title": "Livraison Express",
+          "description": "Livraison accélérée pour les commandes urgentes. Commandé avant 12h00, livré demain (jours ouvrables)."
+        },
+        "international": {
+          "title": "Livraison Internationale",
+          "description": "Livraison mondiale via DHL Express. Documents douaniers inclus."
+        }
+      },
+      "tracking": {
+        "title": "Track & Trace",
+        "description": "Après l'expédition, vous recevrez automatiquement un code Track & Trace par e-mail. Cela vous permet de suivre votre commande en temps réel."
+      },
+      "largeOrders": {
+        "title": "Commandes Importantes",
+        "description": "Pour les commandes de plus de 50 drapeaux ou de très grands formats, nous vous contacterons pour une solution de livraison personnalisée. Veuillez contacter notre service client pour toute question."
+      }
+    }
+  },
+  "shoppingCart": {
+    "nl": {
+      "cart": "Winkelwagen",
+      "empty": "Uw winkelwagen is leeg",
+      "subtotal": "Subtotaal",
+      "shipping": "Verzending",
+      "freeShipping": "Gratis",
+      "total": "Totaal",
+      "checkout": "Afrekenen",
+      "continueShopping": "Verder winkelen"
+    },
+    "en": {
+      "cart": "Shopping Cart",
+      "empty": "Your cart is empty",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "freeShipping": "Free",
+      "total": "Total",
+      "checkout": "Checkout",
+      "continueShopping": "Continue shopping"
+    },
+    "de": {
+      "cart": "Warenkorb",
+      "empty": "Ihr Warenkorb ist leer",
+      "subtotal": "Zwischensumme",
+      "shipping": "Versand",
+      "freeShipping": "Kostenlos",
+      "total": "Gesamt",
+      "checkout": "Zur Kasse",
+      "continueShopping": "Weiter einkaufen"
+    },
+    "fr": {
+      "cart": "Panier",
+      "empty": "Votre panier est vide",
+      "subtotal": "Sous-total",
+      "shipping": "Livraison",
+      "freeShipping": "Gratuit",
+      "total": "Total",
+      "checkout": "Commander",
+      "continueShopping": "Continuer les achats"
+    }
+  },
+  "termsConditions": {
+    "nl": {
+      "title": "Algemene Voorwaarden",
+      "lastUpdated": "Laatst bijgewerkt: 10 maart 2026",
+      "introduction": "Introductie",
+      "introText": "Deze algemene voorwaarden zijn van toepassing op het gebruik van de website en alle diensten van Vlag en Wimpel B.V., gevestigd te Amsterdam en ingeschreven bij de Kamer van Koophandel onder nummer 12345678.",
+      "definitions": "Definities",
+      "definitionsText": "In deze algemene voorwaarden worden de volgende definities gehanteerd: Vlag en Wimpel B.V.: de gebruiker van deze algemene voorwaarden; Klant: de natuurlijke of rechtspersoon die met Vlag en Wimpel B.V. een overeenkomst aangaat; Partijen: Vlag en Wimpel B.V. en klant samen; Overeenkomst: elke afspraak of overeenkomst tussen Vlag en Wimpel B.V. en klant.",
+      "applicability": "Toepasselijkheid",
+      "applicabilityText": "Deze algemene voorwaarden zijn van toepassing op alle aanbiedingen, offertes en overeenkomsten tussen Vlag en Wimpel B.V. en klant. Afwijkingen van deze voorwaarden zijn slechts geldig indien deze uitdrukkelijk schriftelijk zijn overeengekomen.",
+      "offers": "Aanbiedingen en Offertes",
+      "offersText": "Alle aanbiedingen en offertes van Vlag en Wimpel B.V. zijn vrijblijvend, tenzij uitdrukkelijk schriftelijk anders is vermeld. Een aanbod of offerte is maximaal 30 dagen geldig, tenzij een andere aanvaardingstermijn in de offerte is vermeld.",
+      "prices": "Prijzen",
+      "pricesText": "Alle prijzen op onze website en in onze uitingen zijn in Euro's en exclusief BTW, tenzij anders vermeld. Vlag en Wimpel B.V. behoudt zich het recht voor om prijzen te wijzigen. Prijswijzigingen hebben geen invloed op reeds gesloten overeenkomsten.",
+      "payment": "Betaling",
+      "paymentText": "Betaling dient te geschieden binnen 14 dagen na factuurdatum, tenzij schriftelijk anders is overeengekomen. Bij niet-tijdige betaling is de klant van rechtswege in verzuim en is Vlag en Wimpel B.V. gerechtigd de wettelijke rente in rekening te brengen.",
+      "delivery": "Levering",
+      "deliveryText": "Levering vindt plaats op het door de klant opgegeven afleveradres. De klant is verplicht om de producten bij levering in ontvangst te nemen. Levertijden zijn indicatief en vormen geen fatale termijn, tenzij uitdrukkelijk anders is overeengekomen.",
+      "complaints": "Klachten",
+      "complaintsText": "Klachten over de geleverde producten of diensten dienen binnen 8 dagen na levering schriftelijk te worden gemeld aan Vlag en Wimpel B.V. De klant dient Vlag en Wimpel B.V. in de gelegenheid te stellen de klacht te (doen) onderzoeken.",
+      "liability": "Aansprakelijkheid",
+      "liabilityText": "Vlag en Wimpel B.V. is niet aansprakelijk voor schade, van welke aard ook, ontstaan doordat Vlag en Wimpel B.V. is uitgegaan van door of namens de klant verstrekte onjuiste en/of onvolledige gegevens. De aansprakelijkheid van Vlag en Wimpel B.V. is beperkt tot het factuurbedrag.",
+      "intellectualProperty": "Intellectueel Eigendom",
+      "intellectualPropertyText": "Alle intellectuele eigendomsrechten met betrekking tot de producten en diensten van Vlag en Wimpel B.V. berusten bij Vlag en Wimpel B.V. De klant verkrijgt uitsluitend de gebruiksrechten die voortvloeien uit de overeenkomst.",
+      "privacy": "Privacy",
+      "privacyText": "Vlag en Wimpel B.V. behandelt persoonsgegevens van klanten conform de Algemene Verordening Gegevensbescherming (AVG). Voor meer informatie verwijzen wij naar ons Privacy Beleid.",
+      "applicableLaw": "Toepasselijk Recht",
+      "applicableLawText": "Op alle overeenkomsten tussen Vlag en Wimpel B.V. en klant is Nederlands recht van toepassing. Geschillen zullen worden voorgelegd aan de bevoegde rechter in het arrondissement waar Vlag en Wimpel B.V. is gevestigd.",
+      "contact": "Contact",
+      "contactText": "Voor vragen over deze algemene voorwaarden kunt u contact met ons opnemen: Per e-mail: info@vlagenwimpel.nl, Per telefoon: +31 (0)20 123 4567, Per post: Hoofdstraat 123, 1234 AB Amsterdam, Nederland"
+    },
+    "en": {
+      "title": "Terms & Conditions",
+      "lastUpdated": "Last updated: March 10, 2026",
+      "introduction": "Introduction",
+      "introText": "These terms and conditions apply to the use of the website and all services of Vlag en Wimpel B.V., located in Amsterdam and registered with the Chamber of Commerce under number 12345678.",
+      "definitions": "Definitions",
+      "definitionsText": "In these terms and conditions, the following definitions are used: Vlag en Wimpel B.V.: the user of these terms and conditions; Customer: the natural or legal person who enters into an agreement with Vlag en Wimpel B.V.; Parties: Vlag en Wimpel B.V. and customer together; Agreement: any arrangement or agreement between Vlag en Wimpel B.V. and customer.",
+      "applicability": "Applicability",
+      "applicabilityText": "These terms and conditions apply to all offers, quotations and agreements between Vlag en Wimpel B.V. and customer. Deviations from these terms are only valid if expressly agreed in writing.",
+      "offers": "Offers and Quotations",
+      "offersText": "All offers and quotations from Vlag en Wimpel B.V. are without obligation, unless expressly stated otherwise in writing. An offer or quotation is valid for a maximum of 30 days, unless a different acceptance period is stated in the quotation.",
+      "prices": "Prices",
+      "pricesText": "All prices on our website and in our communications are in Euros and exclude VAT, unless otherwise stated. Vlag en Wimpel B.V. reserves the right to change prices. Price changes do not affect agreements already concluded.",
+      "payment": "Payment",
+      "paymentText": "Payment must be made within 14 days of the invoice date, unless otherwise agreed in writing. In case of late payment, the customer is legally in default and Vlag en Wimpel B.V. is entitled to charge statutory interest.",
+      "delivery": "Delivery",
+      "deliveryText": "Delivery takes place at the delivery address specified by the customer. The customer is obliged to accept the products upon delivery. Delivery times are indicative and do not constitute a fatal deadline, unless expressly agreed otherwise.",
+      "complaints": "Complaints",
+      "complaintsText": "Complaints about the products or services delivered must be reported in writing to Vlag en Wimpel B.V. within 8 days of delivery. The customer must give Vlag en Wimpel B.V. the opportunity to investigate the complaint.",
+      "liability": "Liability",
+      "liabilityText": "Vlag en Wimpel B.V. is not liable for damage of any kind arising from Vlag en Wimpel B.V. relying on incorrect and/or incomplete information provided by or on behalf of the customer. The liability of Vlag en Wimpel B.V. is limited to the invoice amount.",
+      "intellectualProperty": "Intellectual Property",
+      "intellectualPropertyText": "All intellectual property rights relating to the products and services of Vlag en Wimpel B.V. rest with Vlag en Wimpel B.V. The customer only acquires the usage rights arising from the agreement.",
+      "privacy": "Privacy",
+      "privacyText": "Vlag en Wimpel B.V. processes personal data of customers in accordance with the General Data Protection Regulation (GDPR). For more information, please refer to our Privacy Policy.",
+      "applicableLaw": "Applicable Law",
+      "applicableLawText": "Dutch law applies to all agreements between Vlag en Wimpel B.V. and customer. Disputes will be submitted to the competent court in the district where Vlag en Wimpel B.V. is located.",
+      "contact": "Contact",
+      "contactText": "For questions about these terms and conditions, you can contact us: By email: info@flagandpennant.com, By phone: +31 (0)20 123 4567, By mail: Main Street 123, 1234 AB Amsterdam, Netherlands"
+    },
+    "de": {
+      "title": "Allgemeine Geschäftsbedingungen",
+      "lastUpdated": "Zuletzt aktualisiert: 10. März 2026",
+      "introduction": "Einführung",
+      "introText": "Diese allgemeinen Geschäftsbedingungen gelten für die Nutzung der Website und aller Dienstleistungen von Vlag en Wimpel B.V., ansässig in Amsterdam und eingetragen bei der Handelskammer unter der Nummer 12345678.",
+      "definitions": "Definitionen",
+      "definitionsText": "In diesen allgemeinen Geschäftsbedingungen werden die folgenden Definitionen verwendet: Vlag en Wimpel B.V.: der Benutzer dieser allgemeinen Geschäftsbedingungen; Kunde: die natürliche oder juristische Person, die einen Vertrag mit Vlag en Wimpel B.V. abschließt; Parteien: Vlag en Wimpel B.V. und Kunde zusammen; Vereinbarung: jede Vereinbarung oder Abmachung zwischen Vlag en Wimpel B.V. und Kunde.",
+      "applicability": "Anwendbarkeit",
+      "applicabilityText": "Diese allgemeinen Geschäftsbedingungen gelten für alle Angebote, Kostenvoranschläge und Vereinbarungen zwischen Vlag en Wimpel B.V. und Kunde. Abweichungen von diesen Bedingungen sind nur gültig, wenn sie ausdrücklich schriftlich vereinbart wurden.",
+      "offers": "Angebote und Kostenvoranschläge",
+      "offersText": "Alle Angebote und Kostenvoranschläge von Vlag en Wimpel B.V. sind unverbindlich, sofern nicht ausdrücklich schriftlich anders angegeben. Ein Angebot oder Kostenvoranschlag ist maximal 30 Tage gültig, sofern im Kostenvoranschlag keine andere Annahmefrist angegeben ist.",
+      "prices": "Preise",
+      "pricesText": "Alle Preise auf unserer Website und in unseren Mitteilungen sind in Euro und exklusive MwSt., sofern nicht anders angegeben. Vlag en Wimpel B.V. behält sich das Recht vor, Preise zu ändern. Preisänderungen haben keinen Einfluss auf bereits abgeschlossene Vereinbarungen.",
+      "payment": "Zahlung",
+      "paymentText": "Die Zahlung muss innerhalb von 14 Tagen nach Rechnungsdatum erfolgen, sofern nicht schriftlich anders vereinbart. Bei verspäteter Zahlung befindet sich der Kunde von Rechts wegen im Verzug und ist Vlag en Wimpel B.V. berechtigt, gesetzliche Zinsen zu berechnen.",
+      "delivery": "Lieferung",
+      "deliveryText": "Die Lieferung erfolgt an die vom Kunden angegebene Lieferadresse. Der Kunde ist verpflichtet, die Produkte bei Lieferung entgegenzunehmen. Lieferzeiten sind indikativ und stellen keine fatale Frist dar, sofern nicht ausdrücklich anders vereinbart.",
+      "complaints": "Beschwerden",
+      "complaintsText": "Beschwerden über die gelieferten Produkte oder Dienstleistungen müssen innerhalb von 8 Tagen nach Lieferung schriftlich bei Vlag en Wimpel B.V. gemeldet werden. Der Kunde muss Vlag en Wimpel B.V. die Möglichkeit geben, die Beschwerde zu untersuchen.",
+      "liability": "Haftung",
+      "liabilityText": "Vlag en Wimpel B.V. haftet nicht für Schäden jeglicher Art, die dadurch entstehen, dass Vlag en Wimpel B.V. von falschen und/oder unvollständigen Angaben ausgegangen ist, die vom oder im Namen des Kunden bereitgestellt wurden. Die Haftung von Vlag en Wimpel B.V. ist auf den Rechnungsbetrag begrenzt.",
+      "intellectualProperty": "Geistiges Eigentum",
+      "intellectualPropertyText": "Alle geistigen Eigentumsrechte in Bezug auf die Produkte und Dienstleistungen von Vlag en Wimpel B.V. liegen bei Vlag en Wimpel B.V. Der Kunde erwirbt nur die Nutzungsrechte, die sich aus der Vereinbarung ergeben.",
+      "privacy": "Datenschutz",
+      "privacyText": "Vlag en Wimpel B.V. verarbeitet personenbezogene Daten von Kunden gemäß der Datenschutz-Grundverordnung (DSGVO). Weitere Informationen finden Sie in unserer Datenschutzerklärung.",
+      "applicableLaw": "Anwendbares Recht",
+      "applicableLawText": "Für alle Vereinbarungen zwischen Vlag en Wimpel B.V. und Kunde gilt niederländisches Recht. Streitigkeiten werden dem zuständigen Gericht im Bezirk vorgelegt, in dem sich Vlag en Wimpel B.V. befindet.",
+      "contact": "Kontakt",
+      "contactText": "Für Fragen zu diesen allgemeinen Geschäftsbedingungen können Sie uns kontaktieren: Per E-Mail: info@flaggeundwimpel.de, Per Telefon: +31 (0)20 123 4567, Per Post: Hauptstraße 123, 1234 AB Amsterdam, Niederlande"
+    },
+    "fr": {
+      "title": "Conditions Générales",
+      "lastUpdated": "Dernière mise à jour : 10 mars 2026",
+      "introduction": "Introduction",
+      "introText": "Ces conditions générales s'appliquent à l'utilisation du site web et de tous les services de Vlag en Wimpel B.V., situé à Amsterdam et enregistré auprès de la Chambre de Commerce sous le numéro 12345678.",
+      "definitions": "Définitions",
+      "definitionsText": "Dans ces conditions générales, les définitions suivantes sont utilisées : Vlag en Wimpel B.V. : l'utilisateur de ces conditions générales ; Client : la personne physique ou morale qui conclut un accord avec Vlag en Wimpel B.V. ; Parties : Vlag en Wimpel B.V. et client ensemble ; Accord : tout arrangement ou accord entre Vlag en Wimpel B.V. et client.",
+      "applicability": "Applicabilité",
+      "applicabilityText": "Ces conditions générales s'appliquent à toutes les offres, devis et accords entre Vlag en Wimpel B.V. et client. Les dérogations à ces conditions ne sont valables que si elles ont été expressément convenues par écrit.",
+      "offers": "Offres et Devis",
+      "offersText": "Toutes les offres et devis de Vlag en Wimpel B.V. sont sans engagement, sauf indication contraire expresse par écrit. Une offre ou un devis est valable pour un maximum de 30 jours, sauf si une période d'acceptation différente est indiquée dans le devis.",
+      "prices": "Prix",
+      "pricesText": "Tous les prix sur notre site web et dans nos communications sont en euros et hors TVA, sauf indication contraire. Vlag en Wimpel B.V. se réserve le droit de modifier les prix. Les changements de prix n'affectent pas les accords déjà conclus.",
+      "payment": "Paiement",
+      "paymentText": "Le paiement doit être effectué dans les 14 jours suivant la date de la facture, sauf accord contraire par écrit. En cas de retard de paiement, le client est légalement en défaut et Vlag en Wimpel B.V. a le droit de facturer des intérêts légaux.",
+      "delivery": "Livraison",
+      "deliveryText": "La livraison a lieu à l'adresse de livraison spécifiée par le client. Le client est tenu d'accepter les produits lors de la livraison. Les délais de livraison sont indicatifs et ne constituent pas un délai fatal, sauf accord contraire exprès.",
+      "complaints": "Réclamations",
+      "complaintsText": "Les réclamations concernant les produits ou services livrés doivent être signalées par écrit à Vlag en Wimpel B.V. dans les 8 jours suivant la livraison. Le client doit donner à Vlag en Wimpel B.V. l'opportunité d'enquêter sur la réclamation.",
+      "liability": "Responsabilité",
+      "liabilityText": "Vlag en Wimpel B.V. n'est pas responsable des dommages de quelque nature que ce soit résultant du fait que Vlag en Wimpel B.V. s'est appuyé sur des informations incorrectes et/ou incomplètes fournies par ou au nom du client. La responsabilité de Vlag en Wimpel B.V. est limitée au montant de la facture.",
+      "intellectualProperty": "Propriété Intellectuelle",
+      "intellectualPropertyText": "Tous les droits de propriété intellectuelle relatifs aux produits et services de Vlag en Wimpel B.V. appartiennent à Vlag en Wimpel B.V. Le client n'acquiert que les droits d'utilisation découlant de l'accord.",
+      "privacy": "Confidentialité",
+      "privacyText": "Vlag en Wimpel B.V. traite les données personnelles des clients conformément au Règlement Général sur la Protection des Données (RGPD). Pour plus d'informations, veuillez consulter notre Politique de Confidentialité.",
+      "applicableLaw": "Droit Applicable",
+      "applicableLawText": "Le droit néerlandais s'applique à tous les accords entre Vlag en Wimpel B.V. et client. Les litiges seront soumis au tribunal compétent dans le district où se trouve Vlag en Wimpel B.V.",
+      "contact": "Contact",
+      "contactText": "Pour toute question concernant ces conditions générales, vous pouvez nous contacter : Par e-mail : info@drapeauxetfanions.fr, Par téléphone : +31 (0)20 123 4567, Par courrier : Rue Principale 123, 1234 AB Amsterdam, Pays-Bas"
+    }
+  },
+  "trustBadges": {
+    "nl": {
+      "securePayment": "Veilig betalen",
+      "freeShipping": "Gratis verzending vanaf €75",
+      "quality": "Premium kwaliteit",
+      "support": "24/7 Klantenservice",
+      "fastDelivery": "Snelle levering",
+      "returns": "30 dagen retourrecht"
+    },
+    "en": {
+      "securePayment": "Secure payment",
+      "freeShipping": "Free shipping from €75",
+      "quality": "Premium quality",
+      "support": "24/7 Customer support",
+      "fastDelivery": "Fast delivery",
+      "returns": "30 days return policy"
+    },
+    "de": {
+      "securePayment": "Sichere Zahlung",
+      "freeShipping": "Kostenloser Versand ab €75",
+      "quality": "Premium Qualität",
+      "support": "24/7 Kundendienst",
+      "fastDelivery": "Schnelle Lieferung",
+      "returns": "30 Tage Rückgaberecht"
+    },
+    "fr": {
+      "securePayment": "Paiement sécurisé",
+      "freeShipping": "Livraison gratuite à partir de €75",
+      "quality": "Qualité premium",
+      "support": "Support client 24/7",
+      "fastDelivery": "Livraison rapide",
+      "returns": "30 jours de retour"
+    }
+  }
+}

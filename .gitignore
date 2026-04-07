@@ -132,3 +132,6 @@ $RECYCLE.BIN/
 
 _NCrunch*
 .vs/
+
+# Node
+node_modules/
