@@ -23,16 +23,20 @@ public class LocalizationController : ControllerBase
     [HttpGet("currencies")]
     public IActionResult GetCurrencies()
     {
-        var currencies = new[] { "EUR", "GBP", "USD" };
+        var currencies = new[]
+        {
+            new { code = "EUR", symbol = "€", exchangeRate = 1.0 },
+            new { code = "GBP", symbol = "£", exchangeRate = 0.85 },
+            new { code = "USD", symbol = "$", exchangeRate = 1.1 }
+        };
 
         return Ok(currencies);
     }
 
     [HttpGet("translations")]
-    public IActionResult GetTranslations([FromQuery] string? lang = null)
+    public IActionResult GetTranslations()
     {
-        // Use provided lang query parameter, fallback to middleware injected language, default to "en"
-        var language = lang ?? HttpContext.Items["Language"]?.ToString() ?? "en";
+        var language = HttpContext.Items["Language"]?.ToString() ?? "en";
         language = language.ToLowerInvariant();
 
         var filePath = System.IO.Path.Combine(System.IO.Directory.GetCurrentDirectory(), "Data", "translations.json");
