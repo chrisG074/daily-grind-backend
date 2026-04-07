@@ -1,10 +1,10 @@
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddHealthChecks();
+builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
@@ -14,8 +14,15 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-app.UseHttpsRedirection();
+app.UseHealthChecks("/health");
 
+app.UseRouting();
+
+// Custom Middlewares for IP Detection & Role-Based Access Control
+app.UseMiddleware<IpDetectionMiddleware>();
+app.UseMiddleware<CustomAuthMiddleware>();
+
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
