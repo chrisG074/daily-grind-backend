@@ -34,9 +34,9 @@ public class LocalizationController : ControllerBase
     }
 
     [HttpGet("translations")]
-    public IActionResult GetTranslations()
+    public IActionResult GetTranslations([FromQuery] string? lang = null)
     {
-        var language = HttpContext.Items["Language"]?.ToString() ?? "en";
+        var language = lang ?? HttpContext.Items["Language"]?.ToString() ?? "en";
         language = language.ToLowerInvariant();
 
         var filePath = System.IO.Path.Combine(System.IO.Directory.GetCurrentDirectory(), "Data", "translations.json");

@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using backend.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllers();
+
+// Configure the DbContext
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("localhost")));
+
 builder.Services.AddOpenApi();
 builder.Services.AddHealthChecks();
 builder.Services.AddAuthorization();
@@ -19,6 +27,13 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
+// Seed the database
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    await DbSeeder.SeedAsync(context);
+}
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -33,8 +48,9 @@ app.UseRouting();
 app.UseCors("AllowFrontend");
 
 // Custom Middlewares for IP Detection & Role-Based Access Control
-app.UseMiddleware<IpDetectionMiddleware>();
-app.UseMiddleware<CustomAuthMiddleware>();
+// Uncomment these when middleware is ready to use
+// app.UseMiddleware<IpDetectionMiddleware>();
+// app.UseMiddleware<CustomAuthMiddleware>();
 
 app.UseAuthentication();
 app.UseAuthorization();

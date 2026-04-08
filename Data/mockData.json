@@ -1,0 +1,46 @@
+{
+  "sizes": [
+    { "value": "100x150", "label": "100 x 150 cm", "price": 0 },
+    { "value": "150x225", "label": "150 x 225 cm", "price": 15 },
+    { "value": "200x300", "label": "200 x 300 cm", "price": 35 }
+  ],
+  "materials": [
+    { "value": "gloss", "label": "110g/m² Gloss Poly", "price": 0 },
+    { "value": "nautical", "label": "115g/m² Nautical Poly", "price": 10 },
+    { "value": "premium", "label": "150g/m² Premium Poly", "price": 20 }
+  ],
+  "attachments": [
+    { "value": "hooks", "label": "Hooks", "price": 0 },
+    { "value": "cord", "label": "Cord", "price": 5 },
+    { "value": "tunnel", "label": "Tunnel", "price": 8 },
+    { "value": "eyelet", "label": "Eyelets", "price": 3 }
+  ],
+  "products": [
+    { "id": 1, "name": "Netherlands Flag", "country": "Netherlands", "price": 24.99, "image": "netherlands flag", "rating": 4.8, "reviewCount": 234, "badge": "bestseller", "category": "country" },
+    { "id": 2, "name": "Belgian Flag", "country": "Belgium", "price": 24.99, "image": "belgium flag", "rating": 4.6, "reviewCount": 156, "badge": "popular", "category": "country" },
+    { "id": 3, "name": "German Flag", "country": "Germany", "price": 24.99, "image": "germany flag", "rating": 4.9, "reviewCount": 312, "badge": "bestseller", "category": "country" },
+    { "id": 4, "name": "French Flag", "country": "France", "price": 24.99, "image": "france flag", "rating": 4.7, "reviewCount": 189, "badge": null, "category": "country" },
+    { "id": 5, "name": "UK Flag", "country": "United Kingdom", "price": 24.99, "image": "united kingdom flag", "rating": 4.8, "reviewCount": 267, "badge": "popular", "category": "country" },
+    { "id": 6, "name": "Spanish Flag", "country": "Spain", "price": 24.99, "image": "spain flag", "rating": 4.5, "reviewCount": 143, "badge": null, "category": "country" },
+    { "id": 7, "name": "Italian Flag", "country": "Italy", "price": 24.99, "image": "italy flag", "rating": 4.7, "reviewCount": 198, "badge": "new", "category": "country" },
+    { "id": 8, "name": "USA Flag", "country": "USA", "price": 29.99, "image": "usa american flag", "rating": 4.9, "reviewCount": 421, "badge": "bestseller", "category": "country" },
+
+    { "id": 101, "name": "Beachflag Premium", "price": 89.99, "image": "https://images.unsplash.com/photo-1586864218799-313b60c5cc1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiZWFjaCUyMGZsYWclMjBwcm9tb3Rpb25hbCUyMGJhbm5lcnxlbnwxfHx8fDE3NzU1NjU1MjB8MA&ixlib=rb-4.1.0&q=80&w=1080", "rating": 4.9, "reviewCount": 287, "badge": "bestseller", "description": "Professionele beachflag in druppelvorm, ideaal voor evenementen en beurzen", "category": "corporate" },
+    { "id": 102, "name": "Bedrijfsvlag Horizontaal", "price": 64.99, "image": "https://images.unsplash.com/photo-1773638015114-60a973e72d8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjBidXNpbmVzcyUyMGZsYWclMjBiYW5uZXIlMjBvdXRkb29yfGVufDF8fHx8MTc3NTU2NTUxOXww&ixlib=rb-4.1.0&q=80&w=1080", "rating": 4.8, "reviewCount": 342, "badge": "bestseller", "description": "Klassieke horizontale bedrijfsvlag, volledig personaliseerbaar met uw logo", "category": "corporate" },
+    { "id": 103, "name": "Bedrijfsvlag Verticaal", "price": 79.99, "image": "https://images.unsplash.com/photo-1760976396330-69046d907544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2ZXJ0aWNhbCUyMGJhbm5lciUyMGZsYWclMjBidXNpbmVzc3xlbnwxfHx8fDE3NzU1NjU1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080", "rating": 4.7, "reviewCount": 198, "badge": "popular", "description": "Opvallende verticale banner, perfect voor winkelpuien en events", "category": "corporate" },
+    { "id": 104, "name": "Tafelvlag Bedrijf", "price": 24.99, "image": "https://images.unsplash.com/photo-1759310610775-b298f34f73aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0YWJsZSUyMGRlc2slMjBmbGFnJTIwY29ycG9yYXRlfGVufDF8fHx8MTc3NTU2NTUyMXww&ixlib=rb-4.1.0&q=80&w=1080", "rating": 4.6, "reviewCount": 456, "badge": "popular", "description": "Elegante tafelvlag voor op uw bureau of balie", "category": "corporate" },
+    { "id": 105, "name": "Vlaggenlijn Bedrijf", "price": 39.99, "image": "https://images.unsplash.com/photo-1714436337062-ae8961ea8e74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwZW5uYW50JTIwYnVudGluZyUyMGZsYWclMjBidXNpbmVzc3xlbnwxfHx8fDE3NzU1NjU1MjV8MA&ixlib=rb-4.1.0&q=80&w=1080", "rating": 4.8, "reviewCount": 276, "badge": "new", "description": "Feestelijke vlaggenlijn met bedrijfslogo, 10 meter lang", "category": "corporate" },
+    { "id": 106, "name": "Reclame Banner Vlag XL", "price": 99.99, "image": "https://images.unsplash.com/photo-1772945858746-e10be2d90613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvdXRkb29yJTIwYWR2ZXJ0aXNpbmclMjBmbGFnJTIwYmFubmVyfGVufDF8fHx8MTc3NTU2NTUyOHww&ixlib=rb-4.1.0&q=80&w=1080", "rating": 4.9, "reviewCount": 189, "badge": "bestseller", "description": "Extra grote reclamevlag voor maximale zichtbaarheid", "category": "corporate" },
+    { "id": 107, "name": "Promotiebanner Event", "price": 54.99, "image": "https://images.unsplash.com/photo-1762417420538-3735a7299b2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxldmVudCUyMHRyYWRlJTIwc2hvdyUyMGJhbm5lcnxlbnwxfHx8fDE3NzU1NjU1MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080", "rating": 4.7, "reviewCount": 234, "badge": null, "description": "Professionele promotiebanner voor beurzen en evenementen", "category": "corporate" },
+    { "id": 108, "name": "Bedrijfsvlag Premium Logo", "price": 119.99, "image": "https://images.unsplash.com/photo-1724534518496-9df1e910dbdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjdXN0b20lMjBjb21wYW55JTIwZmxhZyUyMHByaW50aW5nfGVufDF8fHx8MTc3NTU2NTUyMHww&ixlib=rb-4.1.0&q=80&w=1080", "rating": 5.0, "reviewCount": 167, "badge": "new", "description": "Hoogwaardige premium bedrijfsvlag met sublimatie print", "category": "corporate" },
+
+    { "id": 201, "name": "Flagpole", "price": 89.99, "image": "flagpole", "rating": 4.8, "reviewCount": 287, "badge": "bestseller", "category": "accessories" },
+    { "id": 202, "name": "Flag Hooks Set", "price": 12.99, "image": "flag hooks metal", "rating": 4.7, "reviewCount": 412, "badge": "popular", "category": "accessories" },
+    { "id": 203, "name": "Flag Cord", "price": 8.99, "image": "flag cord rope", "rating": 4.5, "reviewCount": 198, "badge": null, "category": "accessories" },
+    { "id": 204, "name": "Wall Mount Bracket", "price": 19.99, "image": "wall mount bracket", "rating": 4.6, "reviewCount": 234, "badge": null, "category": "accessories" },
+    { "id": 205, "name": "Flagpole Stand", "price": 45.99, "image": "flagpole stand base", "rating": 4.8, "reviewCount": 167, "badge": "bestseller", "category": "accessories" },
+    { "id": 206, "name": "Flag Clips Set", "price": 9.99, "image": "flag clips metal", "rating": 4.6, "reviewCount": 289, "badge": "popular", "category": "accessories" },
+    { "id": 207, "name": "Outdoor Flagpole", "price": 129.99, "image": "outdoor flagpole tall", "rating": 4.9, "reviewCount": 156, "badge": "new", "category": "accessories" },
+    { "id": 208, "name": "Flag Mounting Kit", "price": 24.99, "image": "flag mounting hardware", "rating": 4.7, "reviewCount": 203, "badge": null, "category": "accessories" }
+  ]
+}
